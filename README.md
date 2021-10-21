@@ -30,7 +30,7 @@ He co-organized the workshop on Language Technology for Language Documentation a
 - Zoe Liu (Boston College)
 - Harald Hammarström (Max Planck Institute forthe Science of Human History)
 - David R. Mortensen (Carnegie Mellon University)
-- Saliha Murado ̆glu (The Australian National University (ANU))
+- Saliha Muradoglu (The Australian National University (ANU))
 - Éric Le Ferrand (Charles Darwin University, Université Grenoble Alpes)
 - He Zhou (Brigham Young University)
 - Ezequiel Koile (HSE University, Max Planck Institute for the Science of Human History)
