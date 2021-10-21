@@ -6,7 +6,7 @@
 
 ## Workshop description
 
-## Invited speakers
+## <a name="speakers"/>Invited speakers
 
 ## Program Committee
 
