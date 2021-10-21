@@ -98,11 +98,24 @@ is a Lecturer and a Postdoctoral Fellow at the University of Melbourne. Her rese
 TBD
 
 ## Paper submission 
+We invite both archival and non-archival submissions. 
+Non-archival submissions are 2-page abstracts that could present already published work or work in progress. 
+Archival submissions should be either 4- or 8-pages long.
 
 ## Dual submissions and preprints
+Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper’s main conference submission id. 
+The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated. Authors of dual-submission papers accepted to the main conference should retract them from the workshop by September 20.
+
+Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
 
 ## Camera-ready information
+Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use one extra page to address reviewer comments, for a total of nine pages.
 
 ## Anti-Harassment Policy
+Field matters 2022 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
 
 ## Demographic Diversity
+We encourage diversity in all forms. 
+Workshop organizers make it their top priority the freedom of thought and expression, as well as respectful scientific debate. 
+On behalf of the organizing team, we are committed to the principles of gender and sociodemographic diversity and are guided by these principles in the consideration of the workshop team, including the selection of invited speakers and PC.
+We will also make sure that the ACL Anti-Harassment Policy is respected during the organization and execution of the event.
