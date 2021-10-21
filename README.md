@@ -13,7 +13,7 @@ The Field matters workshop aims to bring together the urgent needs of field ling
 
 ## <a name="speakers"/>Invited speakers
 ### [Antonios Anastasopoulos](http://www.cs.cmu.edu/~aanastas/) (George Mason University)
-<img src="http://www.cs.cmu.edu/~aanastas/images/prof-2018-cropped.png" width="100px" align="right">
+<img src="antonios.png" width="100px" align="right">
 
 Antonis Anastasopoulos is an assistant professor [at George Mason Computer Science Natural Language Processing Group](https://nlp.cs.gmu.edu/author/antonios-anastasopoulos/).
 His interests include various aspects of multilingual Natural Language Processing and Machine Learning, with the main focus being Machine Translation and Speech Recognition
