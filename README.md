@@ -40,6 +40,7 @@ He co-organized the workshop on Language Technology for Language Documentation a
 - John Mansfield (University of Melbourne)
 - Vitaly Protasov (AIR Institute)
 - Svetlana Toldova (HSE University)
+- Daan van Esch (Google Research)
 ## Organizers
 
 **Oleg Serikov**
