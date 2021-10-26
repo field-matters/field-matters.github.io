@@ -1,6 +1,3 @@
-# Field matters
-The first workshop on NLP applications to field linguistics.
-
 ## Important dates
 
  - TBA
