@@ -22,7 +22,7 @@ He completed his Computer Science PhD at the University of Notre Dame, with a di
 He has been involved with documentation efforts on Griko, an endangered Greek dialect spoken in south Italy.
 He co-organized the workshop on Language Technology for Language Documentation and Revitalization, hosted in Pittsburgh in August 2019.
 
-### [Steven Bird](http://www.stevenbird.net/)
+### [Steven Bird](http://www.stevenbird.net/) (Charles Darwin University)
 <img src="steven.jpg" width="100px" align="right">
 Steven Bird is conducting social and technological experiments in the future evolution of the world's languages. 
 Together with his students and colleagues, he is developing scalable methods for preserving disappearing words and worldviews for future generations of speakers and scholars. He is collaborating with speech communities in diasporas and ancestral homelands to design new approaches to language maintenance and revitalisation.
