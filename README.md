@@ -15,12 +15,21 @@ The Field matters workshop aims to bring together the urgent needs of field ling
 ### [Antonios Anastasopoulos](http://www.cs.cmu.edu/~aanastas/) (George Mason University)
 <img src="antonios.png" width="100px" align="right">
 
-Antonis Anastasopoulos is an assistant professor [at George Mason Computer Science Natural Language Processing Group](https://nlp.cs.gmu.edu/author/antonios-anastasopoulos/).
+Antonis Anastasopoulos is an assistant professor at [George Mason Computer Science Natural Language Processing Group](https://nlp.cs.gmu.edu/author/antonios-anastasopoulos/).
 His interests include various aspects of multilingual Natural Language Processing and Machine Learning, with the main focus being Machine Translation and Speech Recognition
 for endangered languages and low-resource settings in general.
 He completed his Computer Science PhD at the University of Notre Dame, with a dissertation on "Computational Tools for Endangered Language Documentation".
 He has been involved with documentation efforts on Griko, an endangered Greek dialect spoken in south Italy.
 He co-organized the workshop on Language Technology for Language Documentation and Revitalization, hosted in Pittsburgh in August 2019.
+
+### [Steven Bird](http://www.stevenbird.net/)
+<img src="steven.png" width="100px" align="right">
+Steven Bird is conducting social and technological experiments in the future evolution of the world's languages. 
+Together with his students and colleagues, he is developing scalable methods for preserving disappearing words and worldviews for future generations of speakers and scholars. He is collaborating with speech communities in diasporas and ancestral homelands to design new approaches to language maintenance and revitalisation.
+
+Steven studied computer science at the University of Melbourne before completing a PhD in computational linguistics at the University of Edinburgh. He has conducted fieldwork on endangered languages in West Africa, South America, Central Asia, Melanesia, and Australia. He has held academic positions at the Universities of Edinburgh, Pennsylvania, Melbourne, and UC Berkeley. He holds a secondary appointment as Senior Research Scientist at the International Computer Science Institute, UC Berkeley. He serves as Linguist at the Nawarddeken Academy in West Arnhem.
+
+Steven is leading the [Top End Language Lab](https://language-lab.cdu.edu.au/)
 
 ## Program Committee
 - Alexandre Arkhipov (University of Hamburg)
