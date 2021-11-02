@@ -1,5 +1,7 @@
 <script>document.title = "Field Matters";</script>
 
+[**Help us to finalize the Shared Task Ideas**](https://bit.ly/fieldNLP_ST_Ideas)
+
 ## Important dates
 
  - TBA
