@@ -1,6 +1,9 @@
 <script>document.title = "Field Matters";</script>
 
-[**Help us to finalize the Shared Task Ideas**](https://bit.ly/fieldNLP_ST_Ideas)
+### News
+[**Help us to finalize the Shared Task Ideas!**](https://bit.ly/fieldNLP_ST_Ideas)
+
+**The workshop will take place at [COLING 2022](https://coling2022.org/)**
 
 ## Important dates
 
