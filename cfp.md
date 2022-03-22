@@ -43,3 +43,5 @@ The workshop will take place at [COLING 2022](https://coling2022.org/).
 Both papers and abstracts must follow the TODO format. Official style sheets: [Overleaf template](https://ru.overleaf.com/latex/templates/coling-2020/hfdgccxjkzqb), Latex/Word template download (TODO).
 
 **Please do not modify these style files.**
+
+#### Early deadline: May 15
