@@ -7,6 +7,9 @@ See the form results live below:
 
 
 **The workshop will take place at [COLING 2022](https://coling2022.org/)**
+
+## Contacts
+
 #### [Call for papers](https://field-matters.github.io/cfp)  |  [Follow us on Twitter](https://twitter.com/field_matters)
 
 ## Important dates
