@@ -12,6 +12,8 @@ See the form results live below:
 
  - TBA
 
+<a href="./cfp">Go to next page</a>
+
 ## Workshop description
 
 Field linguistics plays a crucial role in the development of linguistic theory and universal language modelling, as it provides uncontested, the only way to obtain structural data about the rapidly diminishing diversity of natural languages.
