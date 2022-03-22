@@ -1,11 +1,23 @@
 <script>document.title = "Field Matters | Call for papers";</script>
 
 ## Field Matters! 
+**[Return to the main page](https://field-matters.github.io/)
 #### The first workshop on applying NLP to field linguistics
 
 Field linguistics plays a crucial role in the development of linguistic theory and universal language modeling, as it provides uncontested, the only way to obtain structural data about the rapidly diminishing diversity of natural languages.
 
 The Field matters workshop aims to bring together the urgent needs of field linguists and the vast community of NLP practitioners, developing up-to-date NLP tools for easier, faster, more reliable data collection and annotation.
+
+**We are particularly interested in the following topics:**
++ Application of NLP to field linguistics workflow;
++ Transfer learning for under-resourced language processing;
++ The use of fieldwork data to build NLP systems;
++ Modeling morphology and syntax of typologically diverse languages in the low-resource setting;
++ Speech processing for under-resourced languages;
++ Computational analysis of field linguistics datasets;
++ Using technology for preserving culture via language;
++ Improving ways of interaction with Indigenious communituies;
++ Machine-readable field linguistic datasets.
 
 **We accept three types of papers:**
 + non-archival submissions: 2-page abstracts that can present already published work or work in progress;
