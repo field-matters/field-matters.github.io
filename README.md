@@ -132,7 +132,7 @@ Papers posted to preprint servers such as arxiv can be submitted without any res
 Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use one extra page to address reviewer comments, for a total of nine pages.
 
 ## Anti-Harassment Policy
-Field matters 2022 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
+Field matters 2022 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
 
 ## Demographic Diversity
 We encourage diversity in all forms. 
