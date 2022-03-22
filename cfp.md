@@ -1,7 +1,7 @@
 <script>document.title = "Field Matters | Call for papers";</script>
 
 ## Field Matters! 
-**[Return to the main page](https://field-matters.github.io/)
+##### [Return to the main page](https://field-matters.github.io/)
 #### The first workshop on applying NLP to field linguistics
 
 Field linguistics plays a crucial role in the development of linguistic theory and universal language modeling, as it provides uncontested, the only way to obtain structural data about the rapidly diminishing diversity of natural languages.
