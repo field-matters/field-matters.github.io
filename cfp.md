@@ -40,7 +40,7 @@ Papers posted to preprint servers such as arxiv can be submitted without any res
 The workshop will run its own review process, and papers can be submitted directly to the workshop by both ARR and Start (link TBA).
 
 The workshop will take place at [COLING 2022](https://coling2022.org/).
-Both papers and abstracts must follow the COLING 2022 format (TBA). Official style sheets: [Overleaf template](https://ru.overleaf.com/latex/templates/coling-2020/hfdgccxjkzqb).
+Both papers and abstracts must follow the COLING 2022 format (TBA). COLING 2020 [template](https://ru.overleaf.com/latex/templates/coling-2020/hfdgccxjkzqb).
 
 **Please do not modify these style files.**
 
