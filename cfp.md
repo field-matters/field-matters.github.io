@@ -44,4 +44,4 @@ Both papers and abstracts must follow the TODO format. Official style sheets: [O
 
 **Please do not modify these style files.**
 
-#### Early deadline: May 15
+#### Early deadline: July
