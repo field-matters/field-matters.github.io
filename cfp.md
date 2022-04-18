@@ -16,7 +16,7 @@ The Field matters workshop aims to bring together the urgent needs of field ling
 + Speech processing for under-resourced languages;
 + Computational analysis of field linguistics datasets;
 + Using technology for preserving culture via language;
-+ Improving ways of interaction with Indigenious communituies;
++ Improving ways of interaction with Indigenous communities;
 + Machine-readable field linguistic datasets.
 
 **We accept three types of papers:**
