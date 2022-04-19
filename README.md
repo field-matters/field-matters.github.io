@@ -3,7 +3,7 @@
 <head>
 <meta property="og:title" content="Field Matters">
 <meta property="og:description" content="The first workshop on applying NLP to field linguistics">
-<meta property="og:image" content="logo.jpg">
+<meta property="og:image" content="https://github.com/field-matters/field-matters.github.io/blob/main/logo.jpg?raw=true">
 </head>
 
 [**Help us to finalize the Shared Task Ideas!**](https://bit.ly/fieldNLP_ST_Ideas)
