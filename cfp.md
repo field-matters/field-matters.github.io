@@ -1,10 +1,9 @@
 <script>document.title = "Field Matters | Call for papers";</script>
 
 <head>
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Field Matters | Call for papers">
-<meta name="twitter:description" content="The first workshop on applying NLP to field linguistics">
-<meta name="twitter:image" content="logo.jpg">
+<meta property="og:title" content="Field Matters | Call for papers">
+<meta property="og:description" content="The first workshop on applying NLP to field linguistics">
+<meta property="og:image" content="logo.jpg">
 </head>
 
 ## Field Matters! 
