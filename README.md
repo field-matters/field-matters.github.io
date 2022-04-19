@@ -1,9 +1,11 @@
 <script>document.title = "Field Matters";</script>
 
+<head>
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Field Matters">
 <meta name="twitter:description" content="The first workshop on applying NLP to field linguistics">
 <meta name="twitter:image" content="logo.jpg">
+</head>
 
 [**Help us to finalize the Shared Task Ideas!**](https://bit.ly/fieldNLP_ST_Ideas)
 
