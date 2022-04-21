@@ -6,9 +6,10 @@
 <meta property="og:image" content="https://github.com/field-matters/field-matters.github.io/blob/main/logo.jpg?raw=true">
 </head>
 
-### [Call for papers](https://field-matters.github.io/cfp)
+## [Call for papers](https://field-matters.github.io/cfp)
 
-**The workshop will take place at [COLING 2022](https://coling2022.org/)**
+**The workshop will take place at [COLING 2022](https://coling2022.org/)**  
+
 [Follow us on Twitter](https://twitter.com/field_matters)
 
 ## Important dates
