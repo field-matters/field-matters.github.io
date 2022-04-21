@@ -6,16 +6,10 @@
 <meta property="og:image" content="https://github.com/field-matters/field-matters.github.io/blob/main/logo.jpg?raw=true">
 </head>
 
-[**Help us to finalize the Shared Task Ideas!**](https://bit.ly/fieldNLP_ST_Ideas)
-
-See the form results live below:
-<iframe width='600' height='400' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSBAYKPTkqxCOUp39Hqf-egDdeqg1dqSDck1l56XiHXwxaefrmOrSIe3UWKb3n-jYONsVEY2NOcByYI/pubhtml?"></iframe>
-
-
-## Contacts
+### [Call for papers](https://field-matters.github.io/cfp)
 
 **The workshop will take place at [COLING 2022](https://coling2022.org/)**
-#### [Call for papers](https://field-matters.github.io/cfp)  |  [Follow us on Twitter](https://twitter.com/field_matters)
+[Follow us on Twitter](https://twitter.com/field_matters)
 
 ## Important dates
 
