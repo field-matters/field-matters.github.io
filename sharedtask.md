@@ -19,6 +19,8 @@ Before transcribing the speech, we want to identify who does speak and when. Unl
  
 We are particularly interested in finding the native speakers' segments. In the training data, only the target language is annotated as well as the overall number of speakers, and only this information gets taken into account in the automatic evaluation during the coding period. Evaluation of the held-out dataset where both under-resourced language and high-resourced language chunks are annotated will be held after the submission deadline.
 
+[The Sound File](https://github.com/field-matters/field-matters.github.io/blob/main/hwit.mp4?raw=true?controlsList=nodownload-nofullscreen-noremoteplayback)
+
 ## ASR
 You are expected to provide the transcription of a given recording of a under-resourced language speech. 
 
