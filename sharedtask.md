@@ -26,8 +26,8 @@ We don't expect an  accurate transcription to be accomplished at this time. Ling
 We don't also pay attention to word boundaries detection. Therefore predictions "the cat sat on the mat" and "theca tsaton them at" are considered equal.
 
 ## Important links
-+ [Github repository](TBA)
-+ [Registration](TBA)
++ [Github repository](TBA) - TBA
++ [Registration](TBA) - TBA
 
 ## Important dates
 + Pilot data - May
