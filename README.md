@@ -6,28 +6,22 @@
 <meta property="og:image" content="https://github.com/field-matters/field-matters.github.io/blob/main/logo.jpg?raw=true">
 </head>
 
-## [Call for papers](https://field-matters.github.io/cfp)
+## Workshop description
 
-## [Shared tasks](https://field-matters.github.io/shared task)
-is now open! Pilot data TBA in May.
+Field linguistics plays a crucial role in the development of linguistic theory and universal language modelling, as it provides uncontested, the only way to obtain structural data about the rapidly diminishing diversity of natural languages.
 
-## Important dates
+The Field matters workshop aims to bring together the urgent needs of field linguists and the vast community of NLP practitioners, developing up-to-date NLP tools for easier, faster, more reliable data collection and annotation.
 
- - TBA
-
-
-## Contacts
+## Important links
 
 **The workshop will take place at [COLING 2022](https://coling2022.org/)**  
 
 [Follow us on Twitter](https://twitter.com/field_matters)  
 Join our Google Group: field_matters-workshop@googlegroups.com
 
-## Workshop description
+## Important dates
 
-Field linguistics plays a crucial role in the development of linguistic theory and universal language modelling, as it provides uncontested, the only way to obtain structural data about the rapidly diminishing diversity of natural languages.
-
-The Field matters workshop aims to bring together the urgent needs of field linguists and the vast community of NLP practitioners, developing up-to-date NLP tools for easier, faster, more reliable data collection and annotation.
+ - TBA
 
 ## <a name="speakers"/>Invited speakers
 ### [Antonios Anastasopoulos](http://www.cs.cmu.edu/~aanastas/) (George Mason University)
