@@ -6,6 +6,6 @@
 <meta property="og:image" content="https://github.com/field-matters/field-matters.github.io/blob/main/logo.jpg?raw=true">
 </head>
 
-## Field Matters! 
+## Shared task 
 ##### [Return to the main page](https://field-matters.github.io/)
-#### The first workshop on applying NLP to field linguistics
+
