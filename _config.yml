@@ -1,8 +1,8 @@
 theme: jekyll-theme-dinky
 title: Field matters
 description: The first workshop on NLP applications to field linguistics
-[Call for papers](https://field-matters.github.io/cfp)
-[Shared tasks](https://field-matters.github.io/sharedtask)
+description: [Call for papers](https://field-matters.github.io/cfp)
+description: [Shared tasks](https://field-matters.github.io/sharedtask)
 github:
   is_project_page: false
 
