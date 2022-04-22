@@ -30,5 +30,5 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 + [Registration](TBA) - TBA
 
 ## Important dates
-+ Pilot data - May
++ Pilot data and pre-registration - May
 + TBA
