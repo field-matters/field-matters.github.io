@@ -8,7 +8,7 @@
 
 ## [Call for papers](https://field-matters.github.io/cfp)
 
-## [Shared tasks](https://field-matters.github.io/cfp)
+## [Shared tasks](https://field-matters.github.io/shared task)
 is now open! Pilot data TBA in May.
 
 ## Important dates
