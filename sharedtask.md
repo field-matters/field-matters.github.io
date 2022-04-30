@@ -4,6 +4,77 @@
 <meta property="og:title" content="Field Matters | Call for papers">
 <meta property="og:description" content="The first workshop on applying NLP to field linguistics">
 <meta property="og:image" content="https://github.com/field-matters/field-matters.github.io/blob/main/logo.jpg?raw=true">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+<script src="https://unpkg.com/wavesurfer.js"></script>
+<script src="https://unpkg.com/wavesurfer.js@6.1.0/dist/plugin/wavesurfer.regions.js"></script>
+  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <style> 
+    .frame{
+      width: 50%;
+      margin: 0 auto;
+      margin-left: 50%;
+      height: 60px;
+      position: relative;
+      text-decoration: none;
+      margin-top:10px;
+    }
+    
+    .btn{
+      text-decoration: none;
+      border: 0;
+      background-color: inherit;
+      height: 40px;
+      flex-direction: column;
+      color: #2a2424;
+      font-size: 30px;
+    }
+    
+    .tg  {
+      border:none;
+      border-collapse:collapse;
+      border-spacing:0;
+    }
+    .tg td{
+      color: #2a2424;
+      border-style:solid;
+      border-width:0px;
+      font-family:Arial, sans-serif;
+      font-size:14px;
+      overflow:hidden;
+      padding:10px 5px;
+      word-break:normal;
+    }
+    .tg th{
+      border-style:solid;
+      color: #2a2424;
+      border-width:0px;
+      font-family:Arial, sans-serif;
+      font-size:14px;
+      font-weight:normal;
+      overflow:hidden;
+      padding:10px 5px;
+      word-break:normal;
+    }
+    .tg .tg-1wig{
+      font-weight:bold;
+      text-align:left;
+      vertical-align:top;
+      background-color:inherit;
+    }
+    .tg .tg-4vsk{
+      background-color:hsla(200, 50%, 70%, 0.1);
+      border-color:inherit;
+      color:#000000;
+      text-align:left;
+      vertical-align:top
+    }
+    .tg .tg-0pky{
+      border-color:inherit;
+      background-color:inherit;
+      text-align:left;
+      vertical-align:top
+    }
+  </style>
 </head>
 
 ## Field Matters: Speech Processing Tasks
@@ -32,3 +103,74 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 ## Important dates
 + Pilot data and pre-registration - May
 + TBA
+
+## Data sample
+<div>
+ <div id="waveform"></div>
+ <script>
+    wavesurfer = WaveSurfer.create({
+        container: '#waveform',
+        waveColor: '#49b2e1',
+        progressColor: '#ae1917',
+        cursorColor: '#2a2424',
+        plugins: [
+            WaveSurfer.regions.create({
+                regions: [
+                    {
+                        start: 0,
+                        end: 2.1,
+                        color: 'hsla(200, 50%, 70%, 0.1)',
+                        drag: false,
+                        resize: false,
+                    },
+                    {
+                        start: 4,
+                        end: 7,
+                        color: 'hsla(200, 50%, 70%, 0.1)',
+                        drag: false,
+                        resize: false,
+                    }
+                ]
+            }),
+        ]
+    });
+    wavesurfer.load('audio/example-even.wav');
+ </script>
+ <div class="frame">
+     <a href="" class="btn" onclick="wavesurfer.skipBackward(); event.preventDefault()">
+   <i class="bi bi-skip-start-circle"></i>
+  </a>
+      <a href="" class="btn" onclick="wavesurfer.playPause(); event.preventDefault()">
+  <i class="bi bi-play-circle"></i>
+  </a>
+      <a href="" class="btn" onclick="wavesurfer.skipForward(); event.preventDefault()">
+   <i class="bi bi-skip-end-circle"></i>
+  </a>
+  </div>
+  <table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-1wig">start</th>
+      <th class="tg-1wig">end</th>
+      <th class="tg-1wig">transcription</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-4vsk">00:00:00.019</td>
+      <td class="tg-4vsk">00:00:02.321</td>
+      <td class="tg-4vsk">ekmu unideji enikrɨn oram</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">00:00:02.640</td>
+      <td class="tg-0pky">00:00:03.900</td>
+      <td class="tg-0pky"><i>(a linguist speaking)</i></td>
+    </tr>
+    <tr>
+      <td class="tg-4vsk">00:00:04.036</td>
+      <td class="tg-4vsk">00:00:07.330</td>
+      <td class="tg-4vsk">ekmu uni unirin oram</td>
+    </tr>
+  </tbody>
+  </table>
+</div> 
