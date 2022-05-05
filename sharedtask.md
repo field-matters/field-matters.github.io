@@ -12,7 +12,6 @@
     .frame{
       width: max-content;
       margin: auto;
-      margin-left: 50%;
       height: 60px;
       position: relative;
       text-decoration: none;
