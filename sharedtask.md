@@ -10,8 +10,8 @@
   <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
   <style> 
     .frame{
-      width: 50%;
-      margin: 0 auto;
+      width: max-content;
+      margin: auto;
       margin-left: 50%;
       height: 60px;
       position: relative;
