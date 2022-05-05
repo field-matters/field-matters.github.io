@@ -137,13 +137,13 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
     wavesurfer.load('audio/example-even.wav');
  </script>
  <div class="frame">
-     <a href="" class="btn" onclick="wavesurfer.skipBackward(); event.preventDefault()">
+     <a href="" class="btn" onclick="wavesurfer.skipBackward(); event.preventDefault()" style="text-decoration: none">
    <i class="bi bi-skip-start-circle"></i>
   </a>
-      <a href="" class="btn" onclick="wavesurfer.playPause(); event.preventDefault()">
+      <a href="" class="btn" onclick="wavesurfer.playPause(); event.preventDefault()" style="text-decoration: none">
   <i class="bi bi-play-circle"></i>
   </a>
-      <a href="" class="btn" onclick="wavesurfer.skipForward(); event.preventDefault()">
+      <a href="" class="btn" onclick="wavesurfer.skipForward(); event.preventDefault()" style="text-decoration: none">
    <i class="bi bi-skip-end-circle"></i>
   </a>
   </div>
