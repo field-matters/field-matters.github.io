@@ -65,7 +65,7 @@ Steven is leading the [Top End Language Lab](https://language-lab.cdu.edu.au/)
 ## Organizers
 
 **Oleg Serikov**
-(HSE University, AIRI, MIPT, RAS Linguistics 
+(HSE University, AIRI, MIPT, RAS Linguistics, 
 [`oserikov@hse.ru`](mailto:oserikov@hse.ru))
 
 is an NLP Researcher at AIR Institute. 
