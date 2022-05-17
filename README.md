@@ -118,7 +118,7 @@ modelling.
 **Anna Postnikova** 
 (HSE University,
 [`apostnikova@hse.ru`](mailto:apostnikova@hse.ru))
-is a researcher at HSE University. Her research interests focuses on field linguistics and under-resourced languages documentation, particularly Tungusic languages.
+is a researcher at HSE University. Her research interests focus on field linguistics and under-resourced languages documentation, particularly Tungusic languages.
 
 ## Workshop programme 
 
