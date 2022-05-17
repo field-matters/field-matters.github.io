@@ -96,7 +96,7 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 
 ## Important links
 + [Github repository](https://github.com/field-matters/ST2022)
-+ [Registration](TBA) - TBA
++ [Registration](https://forms.gle/oZY7h1R71xzNDGEN8)
 
 ## Important dates
 + May, 16:  Introductory data
