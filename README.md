@@ -81,7 +81,7 @@ SigTyp 2021 shared task on under-resourced languages ASR.
 (Indiana University, HSE University,
 [`ftyers@iu.edu`](mailto:ftyers@iu.edu))
 
-has a huge experience with under-resourced languages processing. His reseach interests include modelling the grammar of polysyntetic languages, and application of finite-state methods to NLP. Francis is one of the core contributors of Apertium machine translation project \cite{forcada2011apertium}. He has an experience of co-organizing workshops and shared tasks, including SIGMORPHON 2020-2021, CoNLL 2018.
+has a huge experience with under-resourced languages processing. His reseach interests include modelling the grammar of polysyntetic languages, and application of finite-state methods to NLP. Francis is one of the core contributors of Apertium machine translation project. He has an experience of co-organizing workshops and shared tasks, including SIGMORPHON 2020-2021, CoNLL 2018.
 
 **Valentin Malykh**
 (Huawei,
