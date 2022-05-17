@@ -77,7 +77,6 @@
 </head>
 
 ## Field Matters: Speech Processing Tasks
-##### [Return to the main page](https://field-matters.github.io/)
 
 This year, we offer two shared tasks on processing speech in field linguistic recordings.
 Linguistic data collection involves recording narratives, wordlists, and grammatical enqueting. Narratives are a priceless source of linguistic, anthropological and socio-cultural information. Wordlists are basic building blocks for everyone who studies the language, and for those who learn languages. Enquetes provide a unique view on what is plausible, and what is forbidden in a language, providing researchers with negative examples to adjust their theoretical models.
@@ -96,12 +95,14 @@ We don't expect an  accurate transcription to be accomplished at this time. Ling
 We don't also pay attention to word boundaries detection. Therefore predictions "the cat sat on the mat" and "theca tsaton them at" are considered equal.
 
 ## Important links
-+ [Github repository](TBA) - TBA
++ [Github repository](https://github.com/field-matters/ST2022)
 + [Registration](TBA) - TBA
 
 ## Important dates
-+ Pilot data and pre-registration - May
-+ TBA
++ May, 16:  Introductory data
++ May, 30:  Train 1
++ Middle of June:  Train 2
++ Early July:  Competition
 
 ## Data sample
 <div>
