@@ -109,7 +109,16 @@ is a Research Project Manager in NLP at AIRI and the Chief Technology Expert in 
 
 is a Lecturer and a Postdoctoral Fellow at the University of Melbourne. Her research is focused on modelling of  morphology and computational approaches to linguistics typology. She is the president of SIGTYP, co-organized the SIGTYP 2019-2021 workshops and the SIGMORPHON 2017-2021 shared tasks on morphological reinflection. 
 
+**Ekaterina Voloshina** 
+(HSE University, AIRI,
+[`evoloshina@hse.ru`](mailto:evoloshina@hse.ru))
+is a researcher at HSE University and AIR Institute. Her research interests are mainly computational and quantitive approaches to language description and 
+modelling.
 
+**Anna Postnikova** 
+(HSE University,
+[`apostnikova@hse.ru`](mailto:apostnikova@hse.ru))
+is a researcher at HSE University. Her research interests focuses on field linguistics and under-resourced languages documentation, particularly Tungusic languages.
 
 ## Workshop programme 
 
