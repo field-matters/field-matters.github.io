@@ -115,14 +115,15 @@
     }
   </style>
 </head>
+## Field Matters: Speech Processing Tasks
 
-## What's new?
+### What's new?
 #### June, 2
 + Train 1 data is now open
 + We fixed some problems in the previous release (the markup is now in IPA)
 + We are also publishing notebooks with baseline solutions for the both tasks
 
-## Field Matters: Speech Processing Tasks
+## Description
 
 This year, we offer two shared tasks on processing speech in field linguistic recordings.
 Linguistic data collection involves recording narratives, wordlists, and grammatical enqueting. Narratives are a priceless source of linguistic, anthropological and socio-cultural information. Wordlists are basic building blocks for everyone who studies the language, and for those who learn languages. Enquetes provide a unique view on what is plausible, and what is forbidden in a language, providing researchers with negative examples to adjust their theoretical models.
