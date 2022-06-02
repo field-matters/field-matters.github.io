@@ -1,4 +1,4 @@
-<script>document.title = "Field Matters | Call for papers";</script>
+<script>document.title = "Field Matters | Shared Task";</script>
 
 <head>
 <meta property="og:title" content="Field Matters | Shared Task">
