@@ -120,6 +120,11 @@ modelling.
 [`apostnikova@hse.ru`](mailto:apostnikova@hse.ru))
 is a researcher at HSE University. Her research interests focus on field linguistics and under-resourced languages documentation, particularly Tungusic languages.
 
+**Ekaterina Neminova** 
+(HSE University,
+[`esneminova@edu.hse.ru`](mailto:esneminova@edu.hse.ru))
+is a student-researcher at HSE University. Her research interests are in approaches to automatic speech, especially field speech, processing, as well as evaluating the quality of this processing.
+
 ## Workshop programme 
 
 TBD
