@@ -140,17 +140,31 @@ We are particularly interested in finding the native speakers' segments. In the 
 
 <details>
     <summary>Pilot data</summary>
-    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv" download>dia_data.csv</a> &mdash; pilot dataset for the Diarization track <br> 
-    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
+    <p>
+      <ul>
+        <li><i class="fa fa-download" aria-hidden="true"></i>  <a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv" download>dia_data.csv</a> &mdash; pilot dataset for the Diarization track </li> 
+        <li><i class="fa fa-download" aria-hidden="true"></i>  <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</li>
+      </ul>
+    </p>
 </details>
 <details>
     <summary>Train 1 data</summary>
-    <p><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/dia_data_train_1.csv" download>dia_data_train_1.csv</a> &mdash; Train 1 dataset for the Diarization track <br> 
-    <a href="ссылка на архив диа" download>sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</p>
+    <p>
+      <ul>
+        <li><i class="fa fa-download" aria-hidden="true"></i>  <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/dia_data_train_1.csv" download>dia_data_train_1.csv</a> &mdash; Train 1 dataset for the Diarization track</li> 
+        <li><i class="fa fa-download" aria-hidden="true"></i>  <a href="ссылка на архив диа" download>sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</li>
+      </ul>
+    </p>
 </details>
 <details >
     <summary>Baseline solution</summary>
-    <p>Our baseline for ASR is based on the model wav2vec2.<br>For diarization task we will measure weighted Jaccard error rate. Weights for native speakers of under-resoursed languages and linguists differ. The omit of a segment segment will also weight more than a false detected segment.<br><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb" download>diarization_baseline.ipynb</a></p>
+    <p>
+      <ul>
+        <li>Our baseline for ASR is based on the model wav2vec2.</li>
+        <li>For diarization task we will measure weighted Jaccard error rate. Weights for native speakers of under-resoursed languages and linguists differ. The omit of a segment segment will also weight more than a false detected segment.</li>
+        <li><i class="fa fa-download" aria-hidden="true"></i>  <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb" download>diarization_baseline.ipynb</a></li>
+      </ul>
+    </p>
 </details>
 
 ## ASR
@@ -162,7 +176,7 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 <details>
     <summary>Data</summary>
     <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/asr_data.csv" download>asr_data.csv</a> &mdash; pilot dataset for the ASR track <br> 
-    <i class="fa fa-download" aria-hidden="true"></i><a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
+    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
 </details>
 <details>
     <summary>Train 1 data</summary>
