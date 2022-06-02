@@ -140,17 +140,17 @@ We are particularly interested in finding the native speakers' segments. In the 
 
 <details>
     <summary>Pilot data</summary>
-    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv">dia_data.csv</a> &mdash; pilot dataset for the Diarization track <br> 
-    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
+    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv" download>dia_data.csv</a> &mdash; pilot dataset for the Diarization track <br> 
+    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
 </details>
 <details>
     <summary>Train 1 data</summary>
-    <p><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/dia_data_train_1.csv">dia_data_train_1.csv</a> &mdash; Train 1 dataset for the Diarization track <br> 
-    <a href="ссылка на архив диа">sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</p>
+    <p><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/dia_data_train_1.csv" download>dia_data_train_1.csv</a> &mdash; Train 1 dataset for the Diarization track <br> 
+    <a href="ссылка на архив диа" download>sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</p>
 </details>
 <details >
     <summary>Baseline solution</summary>
-    <p>Our baseline for ASR is based on the model wav2vec2.<br>For diarization task we will measure weighted Jaccard error rate. Weights for native speakers of under-resoursed languages and linguists differ. The omit of a segment segment will also weight more than a false detected segment.<br><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb">diarization_baseline.ipynb</a></p>
+    <p>Our baseline for ASR is based on the model wav2vec2.<br>For diarization task we will measure weighted Jaccard error rate. Weights for native speakers of under-resoursed languages and linguists differ. The omit of a segment segment will also weight more than a false detected segment.<br><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb" download>diarization_baseline.ipynb</a></p>
 </details>
 
 ## ASR
@@ -161,17 +161,17 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 
 <details>
     <summary>Data</summary>
-    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/asr_data.csv">asr_data.csv</a> &mdash; pilot dataset for the ASR track <br> 
-    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
+    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/asr_data.csv" download>asr_data.csv</a> &mdash; pilot dataset for the ASR track <br> 
+    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
 </details>
 <details>
     <summary>Train 1 data</summary>
-    <p><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_data_train_1.csv">asr_data_train_1.csv</a> &mdash; Train 1 dataset for the ASR track <br>
-    <a href="ссылка на архив аср">sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</p>
+    <p><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_data_train_1.csv" download>asr_data_train_1.csv</a> &mdash; Train 1 dataset for the ASR track <br>
+    <a href="ссылка на архив аср" download>sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</p>
 </details>
 <details >
     <summary>Baseline solution</summary>
-    <p>As a baseline for diarization task, we take pyannote-audio.<br>For ASR task we will measure phonetic error rate with weights based on phonetic similarity between a  recognised phomene and a right answer.<br><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_baseline.ipynb">asr_baseline.ipynb</a></p>
+    <p>As a baseline for diarization task, we take pyannote-audio.<br>For ASR task we will measure phonetic error rate with weights based on phonetic similarity between a  recognised phomene and a right answer.<br><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_baseline.ipynb" download>asr_baseline.ipynb</a></p>
 </details>
 
 ## Important links
