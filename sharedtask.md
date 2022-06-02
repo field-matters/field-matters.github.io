@@ -66,10 +66,6 @@
       text-decoration: none;
       border: 0;
       background-color: inherit;
-      height: 40px;
-      flex-direction: column;
-      color: #2a2424;
-      font-size: 30px;
     }
     
     .tg  {
