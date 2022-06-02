@@ -113,11 +113,6 @@
       text-align:left;
       vertical-align:top
     }
-    
-   li {
-    list-style-type: none;
-   }
-  </style>
 </head>
 ## Field Matters: Speech Processing Tasks
 
@@ -146,8 +141,8 @@ We are particularly interested in finding the native speakers' segments. In the 
     <summary>Pilot data</summary>
     <p>
       <ul>
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv" download>dia_data.csv</a> &mdash; pilot dataset for the Diarization track </li> 
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</li>
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv" download>dia_data.csv</a> &mdash; pilot dataset for the Diarization track </li> 
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</li>
       </ul>
     </p>
 </details>
@@ -155,8 +150,8 @@ We are particularly interested in finding the native speakers' segments. In the 
     <summary>Train 1 data</summary>
     <p>
       <ul>
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/dia_data_train_1.csv" download>dia_data_train_1.csv</a> &mdash; Train 1 dataset for the Diarization track</li> 
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="ссылка на архив диа" download>sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</li>
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/dia_data_train_1.csv" download>dia_data_train_1.csv</a> &mdash; Train 1 dataset for the Diarization track</li> 
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="ссылка на архив диа" download>sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</li>
       </ul>
     </p>
 </details>
@@ -166,7 +161,7 @@ We are particularly interested in finding the native speakers' segments. In the 
       <ul>
         <li>Our baseline for ASR is based on the model wav2vec2.</li>
         <li>For diarization task we will measure weighted Jaccard error rate. Weights for native speakers of under-resoursed languages and linguists differ. The omit of a segment segment will also weight more than a false detected segment.</li>
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb" download>diarization_baseline.ipynb</a></li>
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb" download>diarization_baseline.ipynb</a></li>
       </ul>
     </p>
 </details>
@@ -181,8 +176,8 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
     <summary>Data</summary>
     <p>
       <ul>
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/asr_data.csv" download>asr_data.csv</a> &mdash; pilot dataset for the ASR track</li> 
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</li>
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/asr_data.csv" download>asr_data.csv</a> &mdash; pilot dataset for the ASR track</li> 
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</li>
       </ul>
     </p>
 </details>
@@ -190,8 +185,8 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
     <summary>Train 1 data</summary>
     <p>
       <ul>
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_data_train_1.csv" download>asr_data_train_1.csv</a> &mdash; Train 1 dataset for the ASR track</li>
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="ссылка на архив аср" download>sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</li>
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_data_train_1.csv" download>asr_data_train_1.csv</a> &mdash; Train 1 dataset for the ASR track</li>
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="ссылка на архив аср" download>sound.zip</a> &mdash; an archive containing the files referenced in the dataset TBA</li>
       </ul>
     </p>
 </details>
@@ -201,7 +196,7 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
       <ul>
         <li>As a baseline for diarization task, we take pyannote-audio.</li>
         <li>For ASR task we will measure phonetic error rate with weights based on phonetic similarity between a  recognised phomene and a right answer.</li>
-        <li><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_baseline.ipynb" download>asr_baseline.ipynb</a></li>
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_baseline.ipynb" download>asr_baseline.ipynb</a></li>
       </ul>
     </p>
 </details>
