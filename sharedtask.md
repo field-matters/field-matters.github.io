@@ -145,7 +145,7 @@ We are particularly interested in finding the native speakers' segments. In the 
 </details>
 <details >
     <summary>Baseline solution</summary>
-    <p><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb">diarization_baseline.ipynb</a></p>
+    <p>Our baseline for ASR is based on the model wav2vec2.<br>For diarization task we will measure weighted Jaccard error rate. Weights for native speakers of under-resoursed languages and linguists differ. The omit of a segment segment will also weight more than a false detected segment. <br><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb">diarization_baseline.ipynb</a></p>
 </details>
 
 ## ASR
@@ -161,7 +161,7 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 </details>
 <details >
     <summary>Baseline solution</summary>
-    <p><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_baseline.ipynb">asr_baseline.ipynb</a></p>
+    <p>As a baseline for diarization task, we take pyannote-audio.<br>For ASR task we will measure phonetic error rate with weights based on phonetic similarity between a  recognised phomene and a right answer.<br><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_baseline.ipynb">asr_baseline.ipynb</a></p>
 </details>
 
 ## Important links
