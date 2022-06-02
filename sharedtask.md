@@ -139,13 +139,18 @@ Before transcribing the speech, we want to identify who does speak and when. Unl
 We are particularly interested in finding the native speakers' segments. In the training data, only the target language is annotated as well as the overall number of speakers, and only this information gets taken into account in the automatic evaluation during the coding period. Evaluation of the held-out dataset where both under-resourced language and high-resourced language chunks are annotated will be held after the submission deadline.
 
 <details>
-    <summary>Data</summary>
+    <summary>Pilot data</summary>
     <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv">dia_data.csv</a> &mdash; pilot dataset for the Diarization track <br> 
     <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
 </details>
+<details>
+    <summary>Train 1 data</summary>
+    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv">dia_data.csv</a> &mdash; pilot dataset for the Diarization track <br> 
+    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in the dataset</p>
+</details>
 <details >
     <summary>Baseline solution</summary>
-    <p>Our baseline for ASR is based on the model wav2vec2.<br>For diarization task we will measure weighted Jaccard error rate. Weights for native speakers of under-resoursed languages and linguists differ. The omit of a segment segment will also weight more than a false detected segment. <br><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb">diarization_baseline.ipynb</a></p>
+    <p>Our baseline for ASR is based on the model wav2vec2.<br>For diarization task we will measure weighted Jaccard error rate. Weights for native speakers of under-resoursed languages and linguists differ. The omit of a segment segment will also weight more than a false detected segment.<br><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb">diarization_baseline.ipynb</a></p>
 </details>
 
 ## ASR
