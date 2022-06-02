@@ -118,10 +118,13 @@
 ## Field Matters: Speech Processing Tasks
 
 ### What's new?
-#### June, 2
+June, 2
 + Train 1 data is now open
 + We fixed some problems in the previous release (the markup is now in IPA)
 + We are also publishing notebooks with baseline solutions for the both tasks
+
+May, 17
++ Pilot data is out
 
 ## Description
 
