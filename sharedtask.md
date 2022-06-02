@@ -9,6 +9,50 @@
 <script src="https://unpkg.com/wavesurfer.js@6.1.0/dist/plugin/wavesurfer.regions.js"></script>
   <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
   <style> 
+     summary::-webkit-details-marker{display:none;}
+    summary::-moz-list-bullet{list-style-type:none;}
+    summary::marker{display:none;} 
+    summary {
+         padding: .3em 1.5em .3em .6em;
+         display:inline-block;
+         font-size:1.4em;
+         cursor: pointer;
+         position: relative;
+            }
+     summary:before {
+         right: .3em;
+         top: .4em;
+         color: transparent;
+         background:                url("data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjM0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIzNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOC41OSAxNi4zNGw0LjU4LTQuNTktNC41OC00LjU5TDEwIDUuNzVsNiA2LTYgNnoiLz48L3N2Zz4=") no-repeat 50% 50% / 1em 1em;
+         width: 1em;
+         height: 1em;  
+         content: "";
+         position: absolute;
+         transition: transform .5s;
+            }
+         details[open] > summary:before {
+                         transform: rotateZ(90deg);
+                                        }
+      summary ~ * {
+         padding:0 1em 0 1em;
+                   }
+      details[open] summary ~ *{ 
+         animation: sweep .5s ease-in-out;
+                                }
+      @keyframes sweep {
+          0%    {opacity: 0;}
+          100%  {opacity: 1;}
+                       }
+      summary:focus {
+        outline:0;
+        box-shadow: inset 0 0 1px rgba(0,0,0,0.3), inset 0 0 2px rgba(0,0,0,0.3);
+      }
+      details{
+       display:block;
+       margin-bottom: .5rem;
+       border: 0; 
+      }       
+    
     .frame{
       width: max-content;
       margin: auto;
@@ -88,11 +132,31 @@ Before transcribing the speech, we want to identify who does speak and when. Unl
  
 We are particularly interested in finding the native speakers' segments. In the training data, only the target language is annotated as well as the overall number of speakers, and only this information gets taken into account in the automatic evaluation during the coding period. Evaluation of the held-out dataset where both under-resourced language and high-resourced language chunks are annotated will be held after the submission deadline.
 
+<details>
+    <summary>Data</summary>
+    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv">dia_data.csv</a> &mdash; the dataset for the Diarization track <br> 
+    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in both tracks </p>
+</details>
+<details >
+    <summary>Baseline solution</summary>
+    <p><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb">diarization_baseline.ipynb</a></p>
+</details>
+
 ## ASR
 You are expected to provide the transcription of a given recording of a under-resourced language speech. 
 
 We don't expect an  accurate transcription to be accomplished at this time. Linguistically and phonetically motivated errors receive fewer penalty than uninterpretable ones. That is, predicting /s/ instead of /z/ gets fewer penalty than predicting /s/ instead of /b/.
 We don't also pay attention to word boundaries detection. Therefore predictions "the cat sat on the mat" and "theca tsaton them at" are considered equal.
+
+<details>
+    <summary>Data</summary>
+    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/asr_data.csv">asr_data.csv</a> &mdash; the dataset for the ASR track <br> 
+    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in both tracks </p>
+</details>
+<details >
+    <summary>Baseline solution</summary>
+    <p><a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_baseline.ipynb">asr_baseline.ipynb</a></p>
+</details>
 
 ## Important links
 + [Github repository](https://github.com/field-matters/ST2022)
