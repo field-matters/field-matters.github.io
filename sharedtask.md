@@ -116,6 +116,12 @@
   </style>
 </head>
 
+## What's new?
+June, 2
++ Train 1 data is now open
++ We fixed some problems in the previous release (the markup is now in IPA)
++ We are also publishing notebooks with baseline solutions for the both tasks
+
 ## Field Matters: Speech Processing Tasks
 
 This year, we offer two shared tasks on processing speech in field linguistic recordings.
@@ -130,8 +136,8 @@ We are particularly interested in finding the native speakers' segments. In the 
 
 <details>
     <summary>Data</summary>
-    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv">dia_data.csv</a> &mdash; the dataset for the Diarization track <br> 
-    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in both tracks </p>
+    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/dia_data.csv">dia_data.csv</a> &mdash; pilot dataset for the Diarization track <br> 
+    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
 </details>
 <details >
     <summary>Baseline solution</summary>
@@ -146,8 +152,8 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 
 <details>
     <summary>Data</summary>
-    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/asr_data.csv">asr_data.csv</a> &mdash; the dataset for the ASR track <br> 
-    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in both tracks </p>
+    <p><a href="https://files.deeppavlov.ai/field-matters/releases/demo/asr_data.csv">asr_data.csv</a> &mdash; pilot dataset for the ASR track <br> 
+    <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip">sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</p>
 </details>
 <details >
     <summary>Baseline solution</summary>
