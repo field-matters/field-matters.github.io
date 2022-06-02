@@ -119,9 +119,9 @@
 
 ### What's new?
 #### June, 2
-+ Train 1 data is now open
++ Train 1 data is now out
 + We fixed some problems in the previous release (the markup is now in IPA)
-+ We are also publishing notebooks with baseline solutions for the both tasks
++ The notebooks with baseline solutions for the both tasks are published
 
 #### May, 17
 + Pilot data is out
