@@ -113,7 +113,9 @@
       text-align:left;
       vertical-align:top
     }
+  </style>  
 </head>
+  
 ## Field Matters: Speech Processing Tasks
 
 ### What's new?
