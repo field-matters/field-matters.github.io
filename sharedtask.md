@@ -178,7 +178,7 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
     <summary>Data</summary>
     <p>
       <ul>
-        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/train-1/asr_data.csv" download>asr_data.csv</a> &mdash; pilot dataset for the ASR track</li> 
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/asr_data.csv" download>asr_data.csv</a> &mdash; pilot dataset for the ASR track</li> 
         <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/demo/sound.zip" download>sound.zip</a> &mdash; an archive containing the files referenced in pilot dataset</li>
       </ul>
     </p>
@@ -187,7 +187,7 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
     <summary>Train 1 data</summary>
     <p>
       <ul>
-        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://raw.githubusercontent.com/field-matters/ST2022/main/asr_data_train_1.csv" download>asr_data_train_1.csv</a> &mdash; Train 1 dataset for the ASR track</li>
+        <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/train-1/asr_data.csv" download>asr_data.csv</a> &mdash; Train 1 dataset for the ASR track</li>
         <li style="list-style-type: none;"><i class="fa fa-download" aria-hidden="true"></i> &nbsp; <a href="https://files.deeppavlov.ai/field-matters/releases/train-1/asr_sound.zip" download>asr_sound.zip</a> &mdash; an archive containing the files referenced in the dataset</li>
       </ul>
     </p>
