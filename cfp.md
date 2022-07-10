@@ -49,4 +49,6 @@ Both papers and abstracts must follow the COLING 2022 format (TBA). COLING 2020 
 
 **Please do not modify these style files.**
 
-#### Early deadline: July
+#### Submission deadline: August 1
+#### Notfication deadline: August 22
+#### Camera-ready paper submission deadline: September 7
