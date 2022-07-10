@@ -119,12 +119,15 @@
 ## Field Matters: Speech Processing Tasks
 
 ### What's new?
-#### June, 3
+#### July 10
++ Final schedule is out
+
+#### June 3
 + Train 1 data is now out
 + We fixed some problems in the previous release (the markup is now in IPA)
 + The notebooks with baseline solutions for the both tasks are published
 
-#### May, 17
+#### May 17
 + Pilot data is out
 
 ## Description
@@ -208,10 +211,12 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 + [Registration](https://forms.gle/oZY7h1R71xzNDGEN8)
 
 ## Important dates
-+ May, 16:  Introductory data
-+ May, 30:  Train 1
-+ Middle of June:  Train 2
-+ Early July:  Competition
++ Test data release; Evaluation start: July 15, 2022
++ Evaluation end: August 10, 2022
++ System description paper deadline: August 17, 2022
++ Deadline for reviews of system description papers: August 26, 2022
++ Author notifications: August 28, 2022
++ Camera-ready description paper deadline: September 5, 2022
 
 ## Data sample
 <div>
