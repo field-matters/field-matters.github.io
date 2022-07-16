@@ -50,5 +50,5 @@ Both papers and abstracts must follow the COLING 2022 [format](https://coling202
 **Please do not modify these style files.**
 
 #### Submission deadline: August 1
-#### Notfication deadline: August 22
+#### Notification deadline: August 22
 #### Camera-ready paper submission deadline: September 7
