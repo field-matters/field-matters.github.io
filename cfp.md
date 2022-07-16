@@ -42,7 +42,7 @@ Dual submissions with the main conference are allowed, but authors must declare 
 
 Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
 
-The workshop will run its own review process, and papers can be submitted directly to the workshop by both ARR and Start (link TBA).
+The workshop will run its own review process, and papers can be submitted directly to the workshop via [Start](www.softconf.com/coling2022/NLP-FL_2022/).
 
 The workshop will take place at [COLING 2022](https://coling2022.org/).
 Both papers and abstracts must follow the COLING 2022 format (TBA). COLING 2020 [template](https://ru.overleaf.com/latex/templates/coling-2020/hfdgccxjkzqb).
