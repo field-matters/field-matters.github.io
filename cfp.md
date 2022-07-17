@@ -38,7 +38,7 @@ The way a paper will be presented will be determined during the review process.
 
 **All submissions should be anonymized.**
 
-Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper’s main conference submission id. The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated. Authors of dual-submission papers accepted to the main conference should retract them from the workshop by TODO.
+Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper’s main conference submission id. The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated. Authors of dual-submission papers accepted to the main conference should retract them from the workshop by August 22.
 
 Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
 
