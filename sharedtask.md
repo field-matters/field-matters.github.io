@@ -119,6 +119,11 @@
 ## Field Matters: Speech Processing Tasks
 
 ### What's new?
+#### July 17
++ Train 2 data
++ Test data
++ CodaLab competition
+
 #### July 10
 + Final schedule is out
 
@@ -209,6 +214,7 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 ## Important links
 + [Github repository](https://github.com/field-matters/ST2022)
 + [Registration](https://forms.gle/oZY7h1R71xzNDGEN8)
++ [CodaLab project](https://codalab.lisn.upsaclay.fr/competitions/6332)
 
 ## Important dates
 + Test data release; Evaluation start: July 15, 2022
