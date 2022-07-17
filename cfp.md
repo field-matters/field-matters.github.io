@@ -45,9 +45,7 @@ Papers posted to preprint servers such as arxiv can be submitted without any res
 The workshop will run its own review process, and papers can be submitted directly to the workshop via [Start](www.softconf.com/coling2022/NLP-FL_2022/).
 
 The workshop will take place at [COLING 2022](https://coling2022.org/).
-Both papers and abstracts must follow the COLING 2022 [format](https://coling2022.org/Submission). See COLING 2022 [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr).
-
-**Please do not modify these style files.**
+Both papers and abstracts must follow the COLING 2022 [format](https://coling2022.org/Submission). See COLING 2022 [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr). **Please do not modify these style files.**
 
 #### Submission deadline: August 1
 #### Notification deadline: August 22
