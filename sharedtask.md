@@ -259,7 +259,7 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
 + [CodaLab project](https://codalab.lisn.upsaclay.fr/competitions/6332)
 
 ## Important dates
-+ Test data release; Evaluation start: July 15, 2022
++ Test data release; Evaluation start: July 17, 2022
 + Evaluation end: August 10, 2022
 + System description paper deadline: August 17, 2022
 + Deadline for reviews of system description papers: August 26, 2022
