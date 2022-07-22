@@ -118,6 +118,19 @@
   
 ## Field Matters: Speech Processing Tasks
 
+## Important links
++ [Github repository](https://github.com/field-matters/ST2022)
++ [Registration](https://forms.gle/oZY7h1R71xzNDGEN8)
++ [CodaLab project](https://codalab.lisn.upsaclay.fr/competitions/6332)
+
+## Important dates
++ Test data release; Evaluation start: July 17, 2022
++ Evaluation end: August 10, 2022
++ System description paper deadline: August 17, 2022
++ Deadline for reviews of system description papers: August 26, 2022
++ Author notifications: August 28, 2022
++ Camera-ready description paper deadline: September 5, 2022
+
 ### What's new?
 #### July 17
 + Train 2 data
@@ -252,19 +265,6 @@ We don't also pay attention to word boundaries detection. Therefore predictions 
       </ul>
     </p>
 </details>
-
-## Important links
-+ [Github repository](https://github.com/field-matters/ST2022)
-+ [Registration](https://forms.gle/oZY7h1R71xzNDGEN8)
-+ [CodaLab project](https://codalab.lisn.upsaclay.fr/competitions/6332)
-
-## Important dates
-+ Test data release; Evaluation start: July 17, 2022
-+ Evaluation end: August 10, 2022
-+ System description paper deadline: August 17, 2022
-+ Deadline for reviews of system description papers: August 26, 2022
-+ Author notifications: August 28, 2022
-+ Camera-ready description paper deadline: September 5, 2022
 
 ## Data sample
 <div>
