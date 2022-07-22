@@ -121,7 +121,7 @@
 ## Important links
 + [Github repository](https://github.com/field-matters/ST2022)
 + [Registration](https://forms.gle/oZY7h1R71xzNDGEN8)
-+ [CodaLab project](https://codalab.lisn.upsaclay.fr/competitions/6332)
++ [CodaLab competition](https://codalab.lisn.upsaclay.fr/competitions/6332)
 
 ## Important dates
 + Test data release; Evaluation start: July 17, 2022
