@@ -18,6 +18,7 @@ The Field matters workshop aims to bring together the urgent needs of field ling
 
 [Follow us on Twitter](https://twitter.com/field_matters)  
 Join our Google Group: field_matters-workshop@googlegroups.com
+Contact email: fieldmattersworkshop@gmail.com
 
 ## <a name="speakers"/>Invited speakers
 ### [Antonios Anastasopoulos](http://www.cs.cmu.edu/~aanastas/) (George Mason University)
