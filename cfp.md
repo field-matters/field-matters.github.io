@@ -47,6 +47,6 @@ The workshop will run its own review process, and papers can be submitted direct
 The workshop will take place at [COLING 2022](https://coling2022.org/).
 Both papers and abstracts must follow the COLING 2022 [format](https://coling2022.org/Submission). See COLING 2022 [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr). **Please do not modify these style files.**
 
-#### Submission deadline: August 1
+#### Submission deadline: August 10 (deadline was extended, previous deadline - August 1)
 #### Notification deadline: August 22
 #### Camera-ready paper submission deadline: September 7
