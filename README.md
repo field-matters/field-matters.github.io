@@ -113,17 +113,20 @@ is a Lecturer and a Postdoctoral Fellow at the University of Melbourne. Her rese
 **Ekaterina Voloshina** 
 (HSE University, AIRI,
 [`evoloshina@hse.ru`](mailto:evoloshina@hse.ru))
+
 is a researcher at HSE University and AIR Institute. Her research interests are mainly computational and quantitive approaches to language description and 
 modelling.
 
 **Anna Postnikova** 
 (HSE University,
 [`apostnikova@hse.ru`](mailto:apostnikova@hse.ru))
+
 is a researcher at HSE University. Her research interests focus on field linguistics and under-resourced languages documentation, particularly Tungusic languages.
 
 **Ekaterina Neminova** 
 (HSE University,
 [`esneminova@edu.hse.ru`](mailto:esneminova@edu.hse.ru))
+
 is a student-researcher at HSE University. Her research interests are in approaches to automatic speech, especially field speech, processing, as well as evaluating the quality of this processing.
 
 ## Workshop programme 
