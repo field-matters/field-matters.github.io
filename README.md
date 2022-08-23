@@ -130,10 +130,10 @@ is a researcher at HSE University. Her research interests focus on field linguis
 is a student-researcher at HSE University. Her research interests are in approaches to automatic speech, especially field speech, processing, as well as evaluating the quality of this processing.
 
 **Alena  Fenogenova** (SberDevices)
-
+is NLP Prototyping & Research Team Lead, Department of Experimental ML at SberDevices.
 
 **Vladislav Mikhailov** (SberDevices, HSE) 
-is an R\&D NLP Engineer in the Department of Experimental ML at SberDevices and works as an invited lecturer in Big Data and IR School (HSE)
+is an R&D NLP Engineer in the Department of Experimental ML at SberDevices and works as an invited lecturer in Big Data and IR School (HSE)
 
 ## Workshop programme 
 
