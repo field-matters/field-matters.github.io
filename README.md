@@ -129,6 +129,11 @@ is a researcher at HSE University. Her research interests focus on field linguis
 
 is a student-researcher at HSE University. Her research interests are in approaches to automatic speech, especially field speech, processing, as well as evaluating the quality of this processing.
 
+**Alena  Fenogenova** (SberDevices)
+
+
+**Vladislav Mikhailov** (SberDevices)
+
 ## Workshop programme 
 
 TBD
