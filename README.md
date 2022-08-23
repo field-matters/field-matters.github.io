@@ -132,7 +132,7 @@ is a student-researcher at HSE University. Her research interests are in approac
 **Alena  Fenogenova** (SberDevices)
 
 
-**Vladislav Mikhailov** (SberDevices) 
+**Vladislav Mikhailov** (SberDevices, HSE) 
 is an R\&D NLP Engineer in the Department of Experimental ML at SberDevices and works as an invited lecturer in Big Data and IR School (HSE)
 
 ## Workshop programme 
