@@ -32,6 +32,7 @@
 + The first neural machine translation system for the Erzya language - _David Dale_
 + Abui Wordnet: Using a Toolbox Dictionary to develop a wordnet for a low-resource language - _Frantisek Kratochvil and Luís Morgado da Costa_
 + Predictive Text for Agglutinative and Polysynthetic Languages - _Sergey Kosyak and Francis Tyers_
+  
 17:30 - 17:40 Close
 
 
