@@ -11,11 +11,11 @@
 
 10:00 - 10:10 Opening talk
 
-10:10 - 11:00 Invited talk: _Antonios Anastasopoulos_. <b>Jointly Building Corpora and Morphosyntactic Analysis Tools</b> <br>
+10:10 - 11:00 Invited talk: _Steven Bird_. <b>Centring the Speaker</b> <br>
 11:00 - 11:10 Questions <br>
 11:10 - 11:30 Coffee break <br>
 
-11:30 - 12:20 Invited talk: _Steven Bird_. <b>Centring the Speaker</b> <br>
+11:30 - 12:20 Invited talk: _Antonios Anastasopoulos_. <b>Jointly Building Corpora and Morphosyntactic Analysis Tools</b> <br>
 12:20 - 12:30 Questions <br>
 12:30 - 14:00 Lunch <br>
 
