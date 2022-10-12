@@ -8,6 +8,7 @@
 
 ## Field Matters workshop program
 ##### Korea Standard Time (KST), UTC +9
+##### October 16 
 
 10:00 - 10:10 Opening talk
 
