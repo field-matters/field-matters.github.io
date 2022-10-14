@@ -12,7 +12,7 @@
 
 10:00 - 10:10 Opening talk
 
-10:10 - 11:00 Invited talk: _Steven Bird_. <b>Centring the Speaker</b> <br>
+10:10 - 11:00 Invited talk: _Steven Bird_. <b>Centring the Speech Community</b> <br>
 11:00 - 11:10 Questions <br>
 11:10 - 11:30 Coffee break <br>
 
