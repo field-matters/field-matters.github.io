@@ -135,10 +135,6 @@ is NLP Prototyping & Research Team Lead, Department of Experimental ML at SberDe
 **Vladislav Mikhailov** (SberDevices, HSE) 
 is an R&D NLP Engineer in the Department of Experimental ML at SberDevices and works as an invited lecturer in Big Data and IR School (HSE)
 
-## Workshop programme 
-
-TBD
-
 ## Paper submission 
 We invite both archival and non-archival submissions. 
 Non-archival submissions are 2-page abstracts that could present already published work or work in progress. 
