@@ -100,10 +100,9 @@ is a researcher at HSE University and AIR Institute. Her research interests are 
 modelling.
 
 **Anna Postnikova** 
-(HSE University,
-[`apostnikova@hse.ru`](mailto:apostnikova@hse.ru))
+([`anna.postn90@gmail.com`](mailto:anna.postn90@gmail.com))
 
-is a researcher at HSE University. Her research interests focus on field linguistics and under-resourced languages documentation, particularly Tungusic languages.
+is an independent researcher. Her research interests focus on field linguistics and under-resourced languages documentation, particularly Tungusic languages.
 
 **Ekaterina Neminova** 
 (HSE University,
