@@ -22,6 +22,7 @@ The Field matters workshop aims to bring together the urgent needs of field ling
 + Contact email: fieldmattersworkshop@gmail.com
 
 ## <a name="speakers"/>Invited speakers
+TBA
 
 ## Program Committee
 - Alexandre Arkhipov (University of Hamburg)
@@ -86,13 +87,13 @@ is a Lecturer and a Postdoctoral Fellow at the University of Melbourne. Her rese
 
 **Éric Le Ferrand**
 (Université Grenoble Alpes, Université d'Orléans,
-[eric.le-ferrand@univ-grenoble-alpes.fr](mailto:eric.le-ferrand@univ-grenoble-alpes.fr)) 
+[`eric.le-ferrand@univ-grenoble-alpes.fr`](mailto:eric.le-ferrand@univ-grenoble-alpes.fr)) 
 
 is a post-doctoral researcher. His main point of interest is speech recognition for under-resourced languages. His current research project is about the exploration of modern speech recognition methods applied to Creole languages. He built linguistic fieldwork expertise during his PhD, deploying speech recognition-based transcription tools in Australian Aboriginal Country.
 
 **Ekaterina Voloshina** 
 (AIRI,
-[`evoloshina@hse.ru`](mailto:voloshina.e.yu@gmail.com))
+[`voloshina.e.yu@gmail.com`](mailto:voloshina.e.yu@gmail.com))
 
 is a researcher at HSE University and AIR Institute. Her research interests are mainly computational and quantitive approaches to language description and 
 modelling.
