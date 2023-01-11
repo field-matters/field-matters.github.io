@@ -116,7 +116,7 @@ Archival submissions should be either 4- or 8-pages long.
 
 ## Dual submissions and preprints
 Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper’s main conference submission id. 
-The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated. Authors of dual-submission papers accepted to the main conference should retract them from the workshop by September 20.
+The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated. Authors of dual-submission papers accepted to the main conference should retract them from the workshop by March 13.
 
 Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
 
