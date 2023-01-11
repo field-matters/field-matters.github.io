@@ -41,7 +41,12 @@ The Field matters workshop aims to bring together the urgent needs of field ling
 - John Mansfield (University of Melbourne)
 - Vitaly Protasov (AIR Institute)
 - Svetlana Toldova (HSE University)
-- Daan van Esch (Google Research)
+- Vladislav Mikhailov (SberDevices, HSE)
+- Svetlana Toldova (HSE University)
+- Søren Wichmann (University of Kiel)
+- Katharina Kann (University of Colorado Boulder)
+- Tessa Masis (University of Massachusetts Amherst)
+
 ## Organizers
 
 **Oleg Serikov**
@@ -67,20 +72,6 @@ SigTyp 2021 shared task on under-resourced languages ASR.
 
 has a huge experience with under-resourced languages processing. His reseach interests include modelling the grammar of polysyntetic languages, and application of finite-state methods to NLP. Francis is one of the core contributors of Apertium machine translation project. He has an experience of co-organizing workshops and shared tasks, including SIGMORPHON 2020-2021, CoNLL 2018.
 
-**Valentin Malykh**
-(Huawei,
-[`valentin.malykh@huawei.com`](mailto:valentin.malykh@huawei.com))
-
-works as a senior research scientist at Huawei Noah's Ark laboratory. 
-Dr Malykh has more than 20 papers in NLP field, including publications on such conferences as NeurIPS, ACL, WSDM.
-Valentin previously co-organized the LoResMT 2018-2019 workshops; also he twice co-organized NeurIPS Challenge on Conversational Artificial Intelligence in 2017 and 2018.
-
-**Timofey Arkhangelskiy**
-(University of Hamburg,
-[`timarkh@gmail.com`](mailto:timarkh@gmail.com))
-
-is a researcher at the Institute for Finno-Ugric/Uralic Studies, where he is working on a language documentation project that involves linguistic fieldwork. His interests in NLP are morphology and application of existing tecniques to under-resourced languages to facilitate processing of fieldwork data. He has developed a number of general-purpose corpora of minority languages, as well as software for processing and publishing linguistic corpora.
-
 **Tatiana Shavrina**
 (AIRI, SberDevices, 
 [`shavrina@airi.net`](mailto:shavrina@airi.net)) 
@@ -93,9 +84,15 @@ is a Research Project Manager in NLP at AIRI and the Chief Technology Expert in 
 
 is a Lecturer and a Postdoctoral Fellow at the University of Melbourne. Her research is focused on modelling of  morphology and computational approaches to linguistics typology. She is the president of SIGTYP, co-organized the SIGTYP 2019-2021 workshops and the SIGMORPHON 2017-2021 shared tasks on morphological reinflection. 
 
+**Éric Le Ferrand**
+(Université Grenoble Alpes, Université d'Orléans,
+[eric.le-ferrand@univ-grenoble-alpes.fr](mailto:eric.le-ferrand@univ-grenoble-alpes.fr)) 
+
+is a post-doctoral researcher. His main point of interest is speech recognition for under-resourced languages. His current research project is about the exploration of modern speech recognition methods applied to Creole languages. He built linguistic fieldwork expertise during his PhD, deploying speech recognition-based transcription tools in Australian Aboriginal Country.
+
 **Ekaterina Voloshina** 
-(HSE University, AIRI,
-[`evoloshina@hse.ru`](mailto:evoloshina@hse.ru))
+(AIRI,
+[`evoloshina@hse.ru`](mailto:voloshina.e.yu@gmail.com))
 
 is a researcher at HSE University and AIR Institute. Her research interests are mainly computational and quantitive approaches to language description and 
 modelling.
@@ -110,12 +107,6 @@ is an independent researcher. Her research interests focus on field linguistics 
 [`esneminova@edu.hse.ru`](mailto:esneminova@edu.hse.ru))
 
 is a student-researcher at HSE University. Her research interests are in approaches to automatic speech, especially field speech, processing, as well as evaluating the quality of this processing.
-
-**Alena  Fenogenova** (SberDevices)
-is NLP Prototyping & Research Team Lead, Department of Experimental ML at SberDevices.
-
-**Vladislav Mikhailov** (SberDevices, HSE) 
-is an R&D NLP Engineer in the Department of Experimental ML at SberDevices and works as an invited lecturer in Big Data and IR School (HSE)
 
 ## Paper submission 
 We invite both archival and non-archival submissions. 
