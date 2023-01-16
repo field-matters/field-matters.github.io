@@ -17,8 +17,7 @@ The Field matters workshop aims to bring together the urgent needs of field ling
 
 **The workshop will take place at [EACL 2023](https://2023.eacl.org/)**  
 
-+ [Follow us on Twitter](https://twitter.com/field_matters)  
-+ Join our Google Group: field_matters-workshop@googlegroups.com
++ [Follow us on Twitter](https://twitter.com/field_matters)
 + Contact email: fieldmattersworkshop@gmail.com
 
 ## <a name="speakers"/>Invited speakers
