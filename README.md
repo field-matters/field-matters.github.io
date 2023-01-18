@@ -34,7 +34,7 @@ TBA
 - Saliha Muradoglu (The Australian National University (ANU))
 - Éric Le Ferrand (Charles Darwin University, Université Grenoble Alpes)
 - He Zhou (Indiana University Bloomington)
-- Ezequiel Koile (HSE University, Max Planck Institute for the Science of Human History)
+- Ezequiel Koile (Max Planck Institute for the Science of Human History)
 - Bonaventure Dossou (Jacobs University Bremen,Germany)
 - Chris C. Emezue (Technical University Munich)
 - William Lane (Charles Darwin University)
