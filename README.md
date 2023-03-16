@@ -45,6 +45,9 @@ TBA
 - Søren Wichmann (University of Kiel)
 - Katharina Kann (University of Colorado Boulder)
 - Tessa Masis (University of Massachusetts Amherst)
+- Nadia Zueva (MIPT, intone.io)
+- Nickolay Shmyrev (AC Technologies LLC)
+- Ivan Bondarenko (NSU)
 
 ## Organizers
 
