@@ -21,7 +21,13 @@ The Field matters workshop aims to bring together the urgent needs of field ling
 + Contact email: fieldmattersworkshop@gmail.com
 
 ## <a name="speakers"/>Invited speakers
-TBA
+**Lane Schwartz**, Associate Professor of Computer Science, University of Alaska-Fairbanks
+
+Dr. Schwartz centers on computational linguistics for endangered languages, with a focus on St. Lawrence Island Yupik. This includes work in polysynthetic lang modelling, cognitively-motivated unsupervised grammar induction, compiler-based deep learning, and machine translation. He is one of the original developers of Joshua, an open source toolkit for tree-based statistical machine translation, and was a frequent contributor to Moses, the de-facto standard for phrase-based statistical machine translation. Lane already joined us at the last Workshop at COLING in 2022.
+
+**Emmanuel Schang**, an associate professor at in the Department of Linguistics of the University of Orléans (France). 
+
+Dr. Schang is an expert in creole languages and their documentation. He is a the Primary Investigator of the CREAM project (machine-assisted creole languages documentation) and the coordinator of The International Research Group on Structure, Emergence and Evolution of Pidgin and Creole Languages.
 
 ## Program Committee
 - Alexandre Arkhipov (University of Hamburg)
