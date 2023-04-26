@@ -47,7 +47,7 @@ Dr. Schang is an expert in creole languages and their documentation. He is a the
 - John Mansfield (University of Melbourne)
 - Vitaly Protasov (AIR Institute)
 - Svetlana Toldova (HSE University)
-- Vladislav Mikhailov (SberDevices, HSE University)
+- Vladislav Mikhailov (HSE University)
 - Søren Wichmann (University of Kiel)
 - Katharina Kann (University of Colorado Boulder)
 - Tessa Masis (University of Massachusetts Amherst)
@@ -81,7 +81,7 @@ SigTyp 2021 shared task on under-resourced languages ASR.
 has a huge experience with under-resourced languages processing. His reseach interests include modelling the grammar of polysyntetic languages, and application of finite-state methods to NLP. Francis is one of the core contributors of Apertium machine translation project. He has an experience of co-organizing workshops and shared tasks, including SIGMORPHON 2020-2021, CoNLL 2018.
 
 **Tatiana Shavrina**
-(AIRI, SberDevices, 
+(AIRI, 
 [`shavrina@airi.net`](mailto:shavrina@airi.net)) 
 
 is a Research Project Manager in NLP at AIRI and the Chief Technology Expert in the Department of Experimental ML at SberDevices. Her research focus is on the evaluation of the language models.
