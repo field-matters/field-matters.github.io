@@ -84,7 +84,7 @@ has a huge experience with under-resourced languages processing. His reseach int
 (AIRI, 
 [`shavrina@airi.net`](mailto:shavrina@airi.net)) 
 
-is a Research Project Manager in NLP at AIRI and the Chief Technology Expert in the Department of Experimental ML at SberDevices. Her research focus is on the evaluation of the language models.
+is a Research Project Manager in NLP at AIRI. Her research focus is on the evaluation of the language models.
 
 **Ekaterina Vylomova**
 (University of Melbourne,
