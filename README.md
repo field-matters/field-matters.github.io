@@ -99,7 +99,8 @@ is a Lecturer and a Postdoctoral Fellow at the University of Melbourne. Her rese
 is a post-doctoral researcher. His main point of interest is speech recognition for under-resourced languages. His current research project is about the exploration of modern speech recognition methods applied to Creole languages. He built linguistic fieldwork expertise during his PhD, deploying speech recognition-based transcription tools in Australian Aboriginal Country.
 
 **Ekaterina Voloshina** 
-([`voloshina.e.yu@gmail.com`](mailto:voloshina.e.yu@gmail.com))
+(Independent Researcher, 
+[`voloshina.e.yu@gmail.com`](mailto:voloshina.e.yu@gmail.com))
 
 is a researcher pursuing her masters degree in NLP. Her research interests are mainly computational and quantitive approaches to language description and 
 modelling.
