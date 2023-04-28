@@ -45,7 +45,7 @@ Dr. Schang is an expert in creole languages and their documentation. He is a the
 - Chris C. Emezue (Technical University Munich)
 - William Lane (Charles Darwin University)
 - John Mansfield (University of Melbourne)
-- Vitaly Protasov (AIR Institute)
+- Vitaly Protasov 
 - Svetlana Toldova (HSE University)
 - Vladislav Mikhailov (HSE University)
 - Søren Wichmann (University of Kiel)
@@ -58,12 +58,12 @@ Dr. Schang is an expert in creole languages and their documentation. He is a the
 ## Organizers
 
 **Oleg Serikov**
-(HSE University, AIRI, MIPT, RAS Linguistics, 
+(HSE University, 
 [`oserikov@hse.ru`](mailto:oserikov@hse.ru))
 
-is an NLP Researcher at AIR Institute. 
+is an NLP Researcher. 
 Oleg now writes his PhD thesis at HSE University, his main points of interest are under-resourced languages ASR, under-resourced languages modelling and linguistic interpretation of language models.
-He co-organized SIGTYP 2021 and LowResourceEval 2021 shared tasks on under-resourced languages ASR.
+He co-organized Field Matters 2022, SIGTYP 2021 and LowResourceEval 2021 shared tasks on under-resourced languages ASR.
 
 **Elena Klyachko**
 (Institute of Linguistics RAS, HSE University,
@@ -81,10 +81,7 @@ SigTyp 2021 shared task on under-resourced languages ASR.
 has a huge experience with under-resourced languages processing. His reseach interests include modelling the grammar of polysyntetic languages, and application of finite-state methods to NLP. Francis is one of the core contributors of Apertium machine translation project. He has an experience of co-organizing workshops and shared tasks, including SIGMORPHON 2020-2021, CoNLL 2018.
 
 **Tatiana Shavrina**
-(AIRI, 
-[`shavrina@airi.net`](mailto:shavrina@airi.net)) 
-
-is a Research Project Manager in NLP at AIRI. Her research focus is on the evaluation of the language models.
+Is an expert in multidisciplinary applications of NLP and the methodology of science. Her research focus is on the evaluation of the language models following her PhD specifics.
 
 **Ekaterina Vylomova**
 (University of Melbourne,
@@ -99,10 +96,9 @@ is a Lecturer and a Postdoctoral Fellow at the University of Melbourne. Her rese
 is a post-doctoral researcher. His main point of interest is speech recognition for under-resourced languages. His current research project is about the exploration of modern speech recognition methods applied to Creole languages. He built linguistic fieldwork expertise during his PhD, deploying speech recognition-based transcription tools in Australian Aboriginal Country.
 
 **Ekaterina Voloshina** 
-(AIRI,
-[`voloshina.e.yu@gmail.com`](mailto:voloshina.e.yu@gmail.com))
+([`voloshina.e.yu@gmail.com`](mailto:voloshina.e.yu@gmail.com))
 
-is a researcher at HSE University and AIR Institute. Her research interests are mainly computational and quantitive approaches to language description and 
+is a researcher pursuing her masters degree in NLP. Her research interests are mainly computational and quantitive approaches to language description and 
 modelling.
 
 **Anna Postnikova** 
