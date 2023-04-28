@@ -45,7 +45,7 @@ Dr. Schang is an expert in creole languages and their documentation. He is a the
 - Chris C. Emezue (Technical University Munich)
 - William Lane (Charles Darwin University)
 - John Mansfield (University of Melbourne)
-- Vitaly Protasov 
+- Vitaly Protasov (Independent Researcher)
 - Svetlana Toldova (HSE University)
 - Vladislav Mikhailov (HSE University)
 - Søren Wichmann (University of Kiel)
@@ -81,6 +81,7 @@ SigTyp 2021 shared task on under-resourced languages ASR.
 has a huge experience with under-resourced languages processing. His reseach interests include modelling the grammar of polysyntetic languages, and application of finite-state methods to NLP. Francis is one of the core contributors of Apertium machine translation project. He has an experience of co-organizing workshops and shared tasks, including SIGMORPHON 2020-2021, CoNLL 2018.
 
 **Tatiana Shavrina**
+(Independent Researcher, [`rybolos@gmail.com`](mailto:rybolos@gmail.com)
 Is an expert in multidisciplinary applications of NLP and the methodology of science. Her research focus is on the evaluation of the language models following her PhD specifics.
 
 **Ekaterina Vylomova**
