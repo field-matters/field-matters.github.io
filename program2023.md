@@ -12,7 +12,7 @@
 
 **8:30-9:00** - Registration 
 
-**9:00-10:30** - Invited talk. Lane Schwartz. Topic TBA.
+**9:00-10:30** - Invited talk. Lane Schwartz. Pingughtukut - We begin to grow up: Ethics & actions in computation & fieldwork.
 
 **10:30-11:15** - *Morning coffee break* 
 
