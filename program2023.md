@@ -16,7 +16,7 @@
 
 **10:30-11:15** - *Morning coffee break* 
 
-**11:15-12:45** - Invited talk. Emmanuel Schang. Topic TBA.
+**11:15-12:45** - Invited talk. Emmanuel Schang. From Theory to Fieldworks: the case of Creolistics.
 
 **12:45-14:20** - *Lunch break* 
 
