@@ -15,7 +15,6 @@ Field linguistics plays a crucial role in the development of linguistic theory a
 
 + [Follow us on Twitter](https://twitter.com/field_matters)
 + Contact email: fieldmattersworkshop@gmail.com
-+ [Program](https://field-matters.github.io/program2023)
 + Proceedings: [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
 
 ## <a name="speakers"/>Invited speakers
