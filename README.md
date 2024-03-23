@@ -18,12 +18,25 @@ Field linguistics plays a crucial role in the development of linguistic theory a
 + Proceedings: [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
 
 ## <a name="speakers"/>Invited speakers
+### '24
+#### [Emily Prud'hommeaux](http://cs.bc.edu/~prudhome/) (Boston College)
+
+Dr. Emily Prud'hommeaux is a researcher focused on NLP in low-resource setting, with a particular focus on endangered languages and the language of individuals with conditions impacting communication and cognition. Her latest research includes ASR for low-resorce languages, as well as for field data. She is the Gianinno Family Sesquicentennial Assistant Professor in the Department of Computer Science at Boston College.
+
+#### [Genta Indra Winata](https://gentawinata.com/) (Bloomberg LP)
+
+Genta Indra Winata a Senior Research Scientist at Bloomberg LP. He is interested primarly includes Language Model, Multilingual, Cross-lingual, Code-Switching, Dialogue System, and Speech. His research includes several projects on NLP for languages of South-East Asia. Among with Alham Fikri Aji, he was a chair ow workshop on SEA NLP which was held at AACL in 2023, and made an ACL tutorial on the Current Status of NLP in South East Asia.
+
+#### [Alham Fikri Aji](https://afaji.github.io/) (MBZUAI)
+
+Alham Fikri Aji an assistant professor at MBZUAI. His research focuses on multilingual and low-resource NLP, particularly for Indonesian and the languages of South-East Asia. Among with Genta Indra Winata, he was a chair ow workshop on SEA NLP which was held at AACL in 2023, and made an ACL tutorial on the Current Status of NLP in South East Asia.
+
 ### '23
 #### [Lane Schwartz](http://dowobeha.github.io/about/) (University of Alaska-Fairbanks)
 
 Dr. Schwartz centers on computational linguistics for endangered languages, with a focus on St. Lawrence Island Yupik. This includes work in polysynthetic lang modelling, cognitively-motivated unsupervised grammar induction, compiler-based deep learning, and machine translation. He is one of the original developers of Joshua, an open source toolkit for tree-based statistical machine translation, and was a frequent contributor to Moses, the de-facto standard for phrase-based statistical machine translation. Lane already joined us at the last Workshop at COLING in 2022.
 
-#### [Emmanuel Schang](https://sites.google.com/site/emmanuelschang/) (University of Orléans (France)) 
+#### [Emmanuel Schang](https://sites.google.com/site/emmanuelschang/) (University of Orléans, France) 
 
 Dr. Schang is an expert in creole languages and their documentation. He is a the Primary Investigator of the CREAM project (machine-assisted creole languages documentation) and the coordinator of The International Research Group on Structure, Emergence and Evolution of Pidgin and Creole Languages.
 
