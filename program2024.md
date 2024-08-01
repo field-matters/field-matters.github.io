@@ -12,7 +12,7 @@
 
 **09:00 - 09:30** Opening word
 
-**09:30 - 10:30** Invited talk. Emily Prud’hommeaux
+**09:30 - 10:30** Invited talk: What role can ASR play in real-world language documentation? - *Emily Prud’hommeaux*
 
 **10:30 - 11:00** Coffee break
 
