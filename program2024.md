@@ -11,10 +11,15 @@
 ##### August 16
 
 **09:00 - 09:30** Opening word
+
 **09:30 - 10:30** Invited talk. Emily Prud’hommeaux
+
 **10:30 - 11:00** Coffee break
+
 **11:00 - 11:10** Introduction to special track
+
 **11:10 - 12:10** Special track
+
 + Leveraging Deep Learning to Shed Light on Tones of an Endangered Language:
 A Case Study of Moklen -
 *Sireemas Maspong, Francesco Burroni, Teerawee Sukanchanon, Warunsiri Pornpottanamas and Pittayawat Pittayaporn*
@@ -22,10 +27,15 @@ A Case Study of Moklen -
 *Piyapath T Spencer*
 + Zero-shot Cross-lingual POS Tagging for Filipino -
 *Jimson Paulo Layacan, Isaiah Edri W. Flores, Katrina Bernice M. Tan, Ma. Regina E. Estuar, Jann Railey Montalan and Marlene M. De Leon*
+
 **12:10 - 12:20** Break
+
 **12:20 - 13:20** Invited talk. Genta Winata and Alham Fikri Aji
+
 **13:20 - 13:30** Break
+
 **13:30 - 15:30** Main Session
+
 + The Parallel Corpus of Russian and Ruska Romani Languages -
 *Kirill Koncha, Abina Abina, Kazakova Tatiana and Gloria Rozovskaya*
 + ManWav: The First Manchu ASR Model -
@@ -38,6 +48,8 @@ A Case Study of Moklen -
 *Inigo Parra*
 + Comparing Kaldi-Based Pipeline Elpis and Whisper for Cakavian Transcription -
 *Austin Jones, Shulin Zhang, John T. Hale, Margaret Renwick, Zvjezdana Vrzic and Keith Langston*
+
 **15:30 - 16:00** Coffee break
+
 **16:00 - 17:30** Plenary discussion
 
