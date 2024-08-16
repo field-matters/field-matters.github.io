@@ -30,7 +30,7 @@ A Case Study of Moklen -
 
 **12:10 - 12:20** Break
 
-**12:20 - 13:20** Invited talk. Genta Winata and Alham Fikri Aji
+**12:20 - 13:20**  Invited talk: Insights from Language Resource Collection in Linguistically Diverse Southeast Asian Languages - *Genta Winata and Alham Fikri Aji*
 
 **13:20 - 13:30** Break
 
