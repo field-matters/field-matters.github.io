@@ -32,9 +32,9 @@ A Case Study of Moklen -
 
 **12:20 - 13:20**  Invited talk: Insights from Language Resource Collection in Linguistically Diverse Southeast Asian Languages - *Genta Winata and Alham Fikri Aji*
 
-**13:20 - 13:30** Break
+**13:20 - 14:30** Lunch Break
 
-**13:30 - 15:30** Main Session
+**14:30 - 16:30** Main Session
 
 + The Parallel Corpus of Russian and Ruska Romani Languages -
 *Kirill Koncha, Abina Abina, Kazakova Tatiana and Gloria Rozovskaya*
@@ -49,7 +49,7 @@ A Case Study of Moklen -
 + Comparing Kaldi-Based Pipeline Elpis and Whisper for Cakavian Transcription -
 *Austin Jones, Shulin Zhang, John T. Hale, Margaret Renwick, Zvjezdana Vrzic and Keith Langston*
 
-**15:30 - 16:00** Coffee break
+**16:30 - 17:00** Coffee break
 
-**16:00 - 17:30** Plenary discussion
+**17:00 - 18:30** Plenary discussion
 
