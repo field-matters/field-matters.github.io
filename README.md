@@ -17,6 +17,8 @@ Field linguistics plays a crucial role in the development of linguistic theory a
 + Contact email: fieldmattersworkshop@gmail.com
 + Proceedings: [2024](https://aclanthology.org/volumes/2024.fieldmatters-1/), [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
 
+**Paper submission link**: [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/Field_Matters)
+
 ## <a name="speakers"/>Invited speakers
 ### '24
 #### [Emily Prud'hommeaux](http://cs.bc.edu/~prudhome/) (Boston College)
