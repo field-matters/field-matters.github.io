@@ -30,18 +30,20 @@
 
 **13:00 – 14:00** Lunch (on your own) 
 
-**14:00 – 14:30** TBA
+**14:00 – 14:20** Oral 3: *High-Dimensional Interlingual Representations of Large Language Models* (20 min)
+
+**14:20 – 14:40** Oral 4: *A Practical Tool to Help Automate Interlinear Glossing: A Study on Mukrī Kurdish* (20 min)
 
 #### Block 3: Typology and cross-linguistic data
-**14:30 – 15:10** Keynote 3: *Connecting the Dots – Growing an Eco-system for Cross-linguistic Data* – *Robert Forkel* (40 min)
+**14:40 – 15:20** Keynote 3: *Connecting the Dots – Growing an Eco-system for Cross-linguistic Data* – *Robert Forkel* (40 min)
 
-**15:10 – 15:30** Oral 5: *Are Translated Texts Useful for Gradient Word Order Extraction?* (20 min)
+**15:20 – 15:40** Oral 5: *Are Translated Texts Useful for Gradient Word Order Extraction?* (20 min)
 
-**15:30 – 16:00** Coffee break
+**15:40 – 16:00** Coffee break
 
 **16:00 – 16:40** Keynote 4: *(L)LMs and Language Theory* – *Lisa Bylinina* (40 min)
 
-**16:40 – 17:00** TBA
+**16:40 – 17:00** Buffer time
 
 **17:00 – 17:20** Oral 6: *Beyond the Data: The Impact of Annotation Inconsistencies in UD Treebanks on Typological Universals and Complexity Assessment* (20 min)
 
