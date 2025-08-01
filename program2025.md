@@ -26,15 +26,11 @@
 #### Block 2: LLMs and multilinguality
 **11:00 – 11:40** Keynote 2: *A Few Good Texts: How Small Sets of High-Quality Linguistic Data Power Massive Multilinguality in Language Models* – *Eduardo Sanchez* (40 min)
 
-**11:40 – 12:00** Oral 3: *High-Dimensional Interlingual Representations of Large Language Models* (20 min)
+**11:40 - 13:00** Poster time (Both workshops)
 
-**12:00 – 12:20** Oral 4: *A Practical Tool to Help Automate Interlinear Glossing: A Study on Mukrī Kurdish* (20 min)
+**13:00 – 14:00** Lunch (on your own) 
 
-**12:20 – 12:30** Buffer / transition (10 min)
-
-**12:30 – 14:00** Lunch (on your own) & poster browsing
-
-**14:00 – 14:30** Poster time I (30 min)
+**14:00 – 14:30** TBA
 
 #### Block 3: Typology and cross-linguistic data
 **14:30 – 15:10** Keynote 3: *Connecting the Dots – Growing an Eco-system for Cross-linguistic Data* – *Robert Forkel* (40 min)
@@ -45,7 +41,7 @@
 
 **16:00 – 16:40** Keynote 4: *(L)LMs and Language Theory* – *Lisa Bylinina* (40 min)
 
-**16:40 – 17:00** Poster time II (20 min)
+**16:40 – 17:00** TBA
 
 **17:00 – 17:20** Oral 6: *Beyond the Data: The Impact of Annotation Inconsistencies in UD Treebanks on Typological Universals and Complexity Assessment* (20 min)
 
