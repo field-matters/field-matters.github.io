@@ -11,16 +11,17 @@ Field linguistics plays a crucial role in the development of linguistic theory a
 
 **The Field matters workshop** aims to bring together the urgent needs of field linguists and the vast community of NLP practitioners, developing up-to-date NLP tools for easier, faster, more reliable data collection and annotation.
 
-**[Virtual Poster Session Links](/poster-session-2025.html)**. The virtual poster sessions take place on August 1st from 14:00 to 14:30 and from 16:40 to 17:00 (Vienna time).
+**[Virtual Poster Session Links 2025](/poster-session-2025.html)**. The virtual poster sessions take place on August 1st from 14:00 to 14:30 and from 16:40 to 17:00 (Vienna time).
 
 ## Important links
 
 + [Follow us on Twitter](https://twitter.com/field_matters)
 + Contact email: fieldmattersworkshop@gmail.com
-+ Proceedings: (2025 cominig soon!) [2024](https://aclanthology.org/volumes/2024.fieldmatters-1/), [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
++ Proceedings: [2025](https://aclanthology.org/2025.fieldmatters-1.0/), [2024](https://aclanthology.org/volumes/2024.fieldmatters-1/), [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
 
 
 ## <a name="speakers"/>Invited speakers
+
 ### '24
 #### [Emily Prud'hommeaux](http://cs.bc.edu/~prudhome/) (Boston College)
 
