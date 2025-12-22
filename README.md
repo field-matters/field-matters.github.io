@@ -12,7 +12,7 @@ Field linguistics plays a crucial role in the development of linguistic theory a
 **The Field matters workshop** aims to bring together the urgent needs of field linguists and the vast community of NLP practitioners, developing up-to-date NLP tools for easier, faster, more reliable data collection and annotation.
 
 Fifth iteration of the workshop is coming soon at [EACL 2026](/cfp2026)!
-***NB** the submission deadline has been extended
+**Note the submission deadline has been extended**
 
 ## Important links
 
