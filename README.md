@@ -24,7 +24,12 @@ Fifth iteration of the workshop is coming soon at [EACL 2026](/cfp2026)!
 
 ## <a name="speakers"/>Invited speakers
 
+### '26
+
+TBA
+
 ### '25
+
 Sharing the keynote panel with SigTyp, we've had talks of Alexis Michaud, Eduardo Sanchez, Robert Forkel and Lisa Bylinina. See talks abstracts [here](2025.md).
 
 ### '24
