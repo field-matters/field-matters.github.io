@@ -19,7 +19,7 @@
 
 **14:30-14:50** Oral 2: *Short-form verbal arts as a speech data resource in the field* (20 min)
 
-**14:50-15:30** Keynote presentation (~40min)
+**14:50-15:30** Keynote presentation: *Automated glossing for language documentation: Historical perspective, state of the art, and the importance of the user* – Alexis Palmer (~40min)
 
 **15:30-16:30** Poster session (1h)
 
