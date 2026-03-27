@@ -19,7 +19,7 @@ Fifth iteration of the workshop is coming soon at [EACL 2026](/cfp2026)!
 + [Follow us on Bluesky](https://bsky.app/profile/fieldmatters.bsky.social)
 + [Follow us on Twitter](https://twitter.com/field_matters)
 + Contact email: fieldmattersworkshop@gmail.com
-+ Proceedings: [2025](https://aclanthology.org/2025.fieldmatters-1.0/), [2024](https://aclanthology.org/volumes/2024.fieldmatters-1/), [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
++ Proceedings: [2026](https://aclanthology.org/2026.fieldmatters-1), [2025](https://aclanthology.org/2025.fieldmatters-1.0/), [2024](https://aclanthology.org/volumes/2024.fieldmatters-1/), [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
 
 
 ## <a name="speakers"/>Invited speakers
