@@ -29,6 +29,8 @@ Fifth iteration of the workshop is coming soon at [EACL 2026](/cfp2026)!
 
 Alexis Palmer is an Associate Professor of Linguistics at the University of Colorado Boulder, working at the intersection of natural language processing and language documentation. Her research focuses on developing computational methods for low-resource and endangered languages, including automated glossing, annotation, and multilingual modeling. She has been actively involved in building connections between NLP and field linguists, both as a founding member of SIGEL (ACL’s Special Interest Group on Endangered Languages) and as a longstanding co-organizer of the ComputEL workshop series. Her work emphasizes the importance of linguistics and language in natural language processing.
 
+[Slides](/assets/invited_talks/Palmer_AutomatingInterlinearGlossing_FieldMatters_March2026.pdf) 
+
 ### '25
 
 Sharing the keynote panel with SigTyp, we've had talks of Alexis Michaud, Eduardo Sanchez, Robert Forkel and Lisa Bylinina. See talks abstracts [here](2025.md).
