@@ -20,7 +20,8 @@
 **14:30-14:50** Oral 2: Short-form verbal arts as a speech data resource in the field *Matthew Faytak, Tianle Yang, Pius Wuchu Akumbu, Ivo Forghema Njuasi and Éric Le Ferrand*
 
 **14:50-15:30** Keynote presentation: Automated glossing for language documentation: Historical perspective, state of the art, and the importance of the user – Alexis Palmer
-[Slides](/assets/invited_talks/Palmer_AutomatingInterlinearGlossing_FieldMatters_March2026) 
+
+[Slides](/assets/invited_talks/Palmer_AutomatingInterlinearGlossing_FieldMatters_March2026.pdf) 
 
 **15:30-16:30** Poster session:
 - What NLP Gets Wrong About Contact: Implications for Field Linguistic Evidence *Manodyna K H*
