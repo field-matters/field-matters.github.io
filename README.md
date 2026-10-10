@@ -11,7 +11,7 @@ Field linguistics plays a crucial role in the development of linguistic theory a
 
 **The Field matters workshop** aims to bring together the urgent needs of field linguists and the vast community of NLP practitioners, developing up-to-date NLP tools for easier, faster, more reliable data collection and annotation.
 
-The sixth iteration of the workshop is coming soon at [EACL 2027](/cfp2027)!
+The sixth iteration of the workshop is coming soon at [EACL 2027](/cfp/cfp2027)!
 
 
 ## Important links
@@ -36,7 +36,7 @@ Alexis Palmer is an Associate Professor of Linguistics at the University of Colo
 
 ### '25
 
-Sharing the keynote panel with SigTyp, we've had talks of Alexis Michaud, Eduardo Sanchez, Robert Forkel and Lisa Bylinina. See talks abstracts [here](2025.md).
+Sharing the keynote panel with SigTyp, we've had talks of Alexis Michaud, Eduardo Sanchez, Robert Forkel and Lisa Bylinina. See talks abstracts [here](/main_pages/2025.md).
 
 ### '24
 #### [Emily Prud'hommeaux](http://cs.bc.edu/~prudhome/) (Boston College)
