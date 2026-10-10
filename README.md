@@ -39,25 +39,25 @@ Alexis Palmer is an Associate Professor of Linguistics at the University of Colo
 
 ### 2025
 
-Sharing the keynote panel with SigTyp, we've had talks of Alexis Michaud, Eduardo Sanchez, Robert Forkel and Lisa Bylinina. See talks abstracts [here](/2025).
+Sharing the keynote panel with SigTyp, we had talks by Alexis Michaud, Eduardo Sanchez, Robert Forkel and Lisa Bylinina. See talks abstracts [here](/2025).
 
 ### 2024
 #### [Emily Prud'hommeaux](http://cs.bc.edu/~prudhome/) (Boston College)
 
-Dr. Emily Prud'hommeaux is a researcher focused on NLP in low-resource setting, with a particular focus on endangered languages and the language of individuals with conditions impacting communication and cognition. Her latest research includes ASR for low-resorce languages, as well as for field data. She is the Gianinno Family Sesquicentennial Assistant Professor in the Department of Computer Science at Boston College.
+Dr. Emily Prud'hommeaux is a researcher focused on NLP in low-resource setting, with a particular focus on endangered languages and the language of individuals with conditions impacting communication and cognition. Her latest research includes ASR for low-resource languages, as well as for field data. She is the Gianinno Family Sesquicentennial Assistant Professor in the Department of Computer Science at Boston College.
 
 #### [Genta Indra Winata](https://gentawinata.com/) (Bloomberg LP)
 
-Genta Indra Winata a Senior Research Scientist at Bloomberg LP. He is interested primarly includes Language Model, Multilingual, Cross-lingual, Code-Switching, Dialogue System, and Speech. His research includes several projects on NLP for languages of South-East Asia. Among with Alham Fikri Aji, he was a chair ow workshop on SEA NLP which was held at AACL in 2023, and made an ACL tutorial on the Current Status of NLP in South East Asia.
+Genta Indra Winata is a Senior Research Scientist at Bloomberg LP. He is interested primarly includes Language Model, Multilingual, Cross-lingual, Code-Switching, Dialogue System, and Speech. His research includes several projects on NLP for languages of South-East Asia. Among with Alham Fikri Aji, he was a chair ow workshop on SEA NLP which was held at AACL in 2023, and made an ACL tutorial on the Current Status of NLP in South East Asia.
 
 #### [Alham Fikri Aji](https://afaji.github.io/) (MBZUAI)
 
-Alham Fikri Aji an assistant professor at MBZUAI. His research focuses on multilingual and low-resource NLP, particularly for Indonesian and the languages of South-East Asia. Among with Genta Indra Winata, he was a chair ow workshop on SEA NLP which was held at AACL in 2023, and made an ACL tutorial on the Current Status of NLP in South East Asia.
+Alham Fikri Aji is an assistant professor at MBZUAI. His research focuses on multilingual and low-resource NLP, particularly for Indonesian and the languages of South-East Asia. Among with Genta Indra Winata, he was a chair ow workshop on SEA NLP which was held at AACL in 2023, and made an ACL tutorial on the Current Status of NLP in South East Asia.
 
 ### 2023
 #### [Lane Schwartz](http://dowobeha.github.io/about/) (University of Alaska-Fairbanks)
 
-Dr. Schwartz centers on computational linguistics for endangered languages, with a focus on St. Lawrence Island Yupik. This includes work in polysynthetic lang modelling, cognitively-motivated unsupervised grammar induction, compiler-based deep learning, and machine translation. He is one of the original developers of Joshua, an open source toolkit for tree-based statistical machine translation, and was a frequent contributor to Moses, the de-facto standard for phrase-based statistical machine translation. Lane already joined us at the last Workshop at COLING in 2022.
+Dr. Schwartz centers on computational linguistics for endangered languages, with a focus on St. Lawrence Island Yupik. This includes work in polysynthetic language modelling, cognitively-motivated unsupervised grammar induction, compiler-based deep learning, and machine translation. He is one of the original developers of Joshua, an open source toolkit for tree-based statistical machine translation, and was a frequent contributor to Moses, the de-facto standard for phrase-based statistical machine translation. Lane already joined us at the last Workshop at COLING in 2022.
 
 #### [Emmanuel Schang](https://sites.google.com/site/emmanuelschang/) (University of Orléans, France) 
 
@@ -84,13 +84,13 @@ Steven is leading the [Top End Language Lab](https://language-lab.cdu.edu.au/)
 
 ## Program Committee (participants since '22)
 + Alexandre Arkhipov (University of Hamburg)
-+ Bonaventure Dossou (Jacobs University Bremen,Germany)
++ Bonaventure Dossou (Jacobs University Bremen, Germany)
 + Chris C. Emezue (Technical University Munich)
 + Daan van Esch (Google Research)
 + David R. Mortensen (Carnegie Mellon University)
 + Emily Prud’hommeaux (Boston College)
 + Ezequiel Koile (Max Planck Institute for Evolutionary Anthropology)
-+ Harald Hammarström (Max Planck Institute forthe Science of Human History)
++ Harald Hammarström (Max Planck Institute for the Science of Human History)
 + He Zhou (Indiana University Bloomington)
 + Ivan Bondarenko (NSU)
 + John Mansfield (University of Melbourne)

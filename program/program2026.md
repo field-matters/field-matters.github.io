@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /program2026
+---
+
 <script>document.title = "Field Matters 2026 workshop program";</script>
 
 <head>
