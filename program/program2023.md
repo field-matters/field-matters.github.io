@@ -2,7 +2,7 @@
 
 <head>
 <meta property="og:title" content="Field Matters | Workshop program">
-<meta property="og:description" content="The first workshop on applying NLP to field linguistics">
+<meta property="og:description" content="The second workshop on applying NLP to field linguistics">
 <meta property="og:image" content="https://github.com/field-matters/field-matters.github.io/blob/main/logo.jpg?raw=true">
 </head>
 
@@ -50,7 +50,7 @@
 *Abdulwahab Sahyoun and Shady Shehata*
 + Multilingual Automatic Extraction of Linguistic Data from Grammars -
 *Albert Kornilov*
-+ Joint Word and Morpheme Segmentation with Bayesian Non-Parametriс Models -
++ Joint Word and Morpheme Segmentation with Bayesian Non-Parametric Models -
 *Shu Okabe, François Yvon*
 
 **18:00 -** End of the last session

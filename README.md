@@ -11,7 +11,8 @@ Field linguistics plays a crucial role in the development of linguistic theory a
 
 **The Field matters workshop** aims to bring together the urgent needs of field linguists and the vast community of NLP practitioners, developing up-to-date NLP tools for easier, faster, more reliable data collection and annotation.
 
-The sixth iteration of the workshop is coming soon at [EACL 2027](/cfp/cfp2027)!
+<font color="red" font-weight="bold">
+**NEW**: The sixth iteration of the workshop is coming soon at [EACL 2027](/cfp/cfp2027)!</font>
 
 
 ## Important links
@@ -19,26 +20,28 @@ The sixth iteration of the workshop is coming soon at [EACL 2027](/cfp/cfp2027)!
 + [Follow us on Bluesky](https://bsky.app/profile/fieldmatters.bsky.social)
 + [Follow us on Twitter](https://twitter.com/field_matters)
 + Contact email: fieldmattersworkshop@gmail.com
-+ Proceedings: [2026](https://aclanthology.org/2026.fieldmatters-1), [2025](https://aclanthology.org/2025.fieldmatters-1.0/), [2024](https://aclanthology.org/volumes/2024.fieldmatters-1/), [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
++ Proceedings: 
+[2026](https://aclanthology.org/volumes/2026.fieldmatters-1/), 
+[2025](https://aclanthology.org/volumes/2025.fieldmatters-1/), [2024](https://aclanthology.org/volumes/2024.fieldmatters-1/), [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
 
 
 ## <a name="speakers"/>Invited speakers
 
-### '27
+### 2027
 TBA
 
-### '26
+### 2026
 #### [Alexis Palmer](https://www.colorado.edu/linguistics/alexis-palmer) (University of Colorado Boulder)
 
 Alexis Palmer is an Associate Professor of Linguistics at the University of Colorado Boulder, working at the intersection of natural language processing and language documentation. Her research focuses on developing computational methods for low-resource and endangered languages, including automated glossing, annotation, and multilingual modeling. She has been actively involved in building connections between NLP and field linguists, both as a founding member of SIGEL (ACL’s Special Interest Group on Endangered Languages) and as a longstanding co-organizer of the ComputEL workshop series. Her work emphasizes the importance of linguistics and language in natural language processing.
 
 [Slides](/assets/invited_talks/Palmer_AutomatingInterlinearGlossing_FieldMatters_March2026.pdf) 
 
-### '25
+### 2025
 
-Sharing the keynote panel with SigTyp, we've had talks of Alexis Michaud, Eduardo Sanchez, Robert Forkel and Lisa Bylinina. See talks abstracts [here](/main_pages/2025.md).
+Sharing the keynote panel with SigTyp, we've had talks of Alexis Michaud, Eduardo Sanchez, Robert Forkel and Lisa Bylinina. See talks abstracts [here](/2025).
 
-### '24
+### 2024
 #### [Emily Prud'hommeaux](http://cs.bc.edu/~prudhome/) (Boston College)
 
 Dr. Emily Prud'hommeaux is a researcher focused on NLP in low-resource setting, with a particular focus on endangered languages and the language of individuals with conditions impacting communication and cognition. Her latest research includes ASR for low-resorce languages, as well as for field data. She is the Gianinno Family Sesquicentennial Assistant Professor in the Department of Computer Science at Boston College.
@@ -51,7 +54,7 @@ Genta Indra Winata a Senior Research Scientist at Bloomberg LP. He is interested
 
 Alham Fikri Aji an assistant professor at MBZUAI. His research focuses on multilingual and low-resource NLP, particularly for Indonesian and the languages of South-East Asia. Among with Genta Indra Winata, he was a chair ow workshop on SEA NLP which was held at AACL in 2023, and made an ACL tutorial on the Current Status of NLP in South East Asia.
 
-### '23
+### 2023
 #### [Lane Schwartz](http://dowobeha.github.io/about/) (University of Alaska-Fairbanks)
 
 Dr. Schwartz centers on computational linguistics for endangered languages, with a focus on St. Lawrence Island Yupik. This includes work in polysynthetic lang modelling, cognitively-motivated unsupervised grammar induction, compiler-based deep learning, and machine translation. He is one of the original developers of Joshua, an open source toolkit for tree-based statistical machine translation, and was a frequent contributor to Moses, the de-facto standard for phrase-based statistical machine translation. Lane already joined us at the last Workshop at COLING in 2022.
@@ -60,7 +63,7 @@ Dr. Schwartz centers on computational linguistics for endangered languages, with
 
 Dr. Schang is an expert in creole languages and their documentation. He is a the Primary Investigator of the CREAM project (machine-assisted creole languages documentation) and the coordinator of The International Research Group on Structure, Emergence and Evolution of Pidgin and Creole Languages.
 
-### '22
+### 2022
 #### [Antonios Anastasopoulos](http://www.cs.cmu.edu/~aanastas/) (George Mason University)
 
 Antonis Anastasopoulos is an assistant professor at [George Mason Computer Science Natural Language Processing Group](https://nlp.cs.gmu.edu/author/antonios-anastasopoulos/).
