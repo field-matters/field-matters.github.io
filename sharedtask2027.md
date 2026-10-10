@@ -4,8 +4,7 @@
 <meta property="og:title" content="Field Matters | Shared Task">
 <meta property="og:description" content="The sixth workshop on applying NLP to field linguistics">
 <meta property="og:image" content="https://github.com/field-matters/field-matters.github.io/blob/main/logo.jpg?raw=true">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
-
+</head>
   
 ## Field Matters 2027: Automatic Interlinear Glossing Task
 
