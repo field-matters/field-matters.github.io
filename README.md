@@ -12,7 +12,7 @@ Field linguistics plays a crucial role in the development of linguistic theory a
 **The Field matters workshop** aims to bring together the urgent needs of field linguists and the vast community of NLP practitioners, developing up-to-date NLP tools for easier, faster, more reliable data collection and annotation.
 
 <font color="red" font-weight="bold">
-**NEW**: The sixth iteration of the workshop is coming soon at [EACL 2027](/cfp/cfp2027)!</font>
+The sixth iteration of the workshop is coming soon at EACL 2027!</font>
 
 
 ## Important links
@@ -24,6 +24,9 @@ Field linguistics plays a crucial role in the development of linguistic theory a
 [2026](https://aclanthology.org/volumes/2026.fieldmatters-1/), 
 [2025](https://aclanthology.org/volumes/2025.fieldmatters-1/), [2024](https://aclanthology.org/volumes/2024.fieldmatters-1/), [2023](https://aclanthology.org/volumes/2023.fieldmatters-1/), [2022](https://aclanthology.org/volumes/2022.fieldmatters-1/)
 
+## News (since October 2026)
+
+02/10/2026: The workshop has been accepted to [EACL 2027](https://2027.eacl.org/). See you in Athens!
 
 ## <a name="speakers"/>Invited speakers
 
@@ -80,9 +83,9 @@ Together with his students and colleagues, he is developing scalable methods for
 
 Steven studied computer science at the University of Melbourne before completing a PhD in computational linguistics at the University of Edinburgh. He has conducted fieldwork on endangered languages in West Africa, South America, Central Asia, Melanesia, and Australia. He has held academic positions at the Universities of Edinburgh, Pennsylvania, Melbourne, and UC Berkeley. He holds a secondary appointment as Senior Research Scientist at the International Computer Science Institute, UC Berkeley. He serves as Linguist at the Nawarddeken Academy in West Arnhem.
 
-Steven is leading the [Top End Language Lab](https://language-lab.cdu.edu.au/)
+Steven is leading the [Top End Language Lab](https://language-lab.cdu.edu.au/).
 
-## Program Committee (participants since '22)
+## Program Committee (participants since 2022)
 + Alexandre Arkhipov (University of Hamburg)
 + Bonaventure Dossou (Jacobs University Bremen, Germany)
 + Chris C. Emezue (Technical University Munich)
