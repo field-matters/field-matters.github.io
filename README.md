@@ -27,6 +27,7 @@ The sixth iteration of the workshop is coming soon at EACL 2027!</font>
 ## News (since October 2026)
 
 02/10/2026: The workshop has been accepted to [EACL 2027](https://2027.eacl.org/). See you in Athens!
+13/10/2026: The [Call for Papers](/cfp/cfp2027.md) is out.
 
 ## <a name="speakers"/>Invited speakers
 
