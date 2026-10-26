@@ -18,7 +18,8 @@ The sixth iteration of the workshop is coming soon at EACL 2027!</font>
 ## Important links
 
 + [Follow us on Bluesky](https://bsky.app/profile/fieldmatters.bsky.social)
-+ [Follow us on Twitter](https://twitter.com/field_matters)
++ [Follow us on Twitter (new account)](https://x.com/FieldMatters1). We lost access to our original X account and had to create a new one. 
+Here is the [old account](https://twitter.com/field_matters) for reference.
 + Contact email: fieldmattersworkshop@gmail.com
 + Proceedings: 
 [2026](https://aclanthology.org/volumes/2026.fieldmatters-1/), 

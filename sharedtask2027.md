@@ -72,18 +72,40 @@ In our Shared Task, the input is mainly the **unsegmented source sentence** (fir
 ## Timeline
 
 The Shared Task will be in **three phases**:
-- Phase 1: The development phase starts with the 6 languages mentioned below.
+- Phase 1: The development phase starts with the 5 languages mentioned below.
 - Phase 2: The development phase continues with information about new languages ('surprise languages').
 - Phase 3: The test phase starts with the release of the test sets.
 
+## Languages
 
+The task will cover the following languages:
+- [Phase 1] 4 from the previous SIGMORPHON 2023 Shared Task on Interlinear Glossing: Gitksan (git), Lezgi (lez), Natugu (ntu), and Nyangbo (nyb).
+- [Phase 1] 1 language from the [Glossed Audio Corpus of Ainu Folklore](https://ainu.ninjal.ac.jp/folklore/en/) via the [Fieldwork corpus](https://huggingface.co/datasets/wav2gloss/NINJAL-Ainu-Folklore) ([He et al., 2024](https://aclanthology.org/2024.acl-long.34/)): Hokkaido Ainu (ain).
+
+The corresponding citations for the languages are detailed in a section below.
+
+## Submission rules
+
+Submissions to the shared task should follow the rules below:
+- Model: Any type of model is allowed, provided that the system is based on *open-source* or *open-weight* models (if LLM-based).   
+We encourage you to upload your system to GitHub or HuggingFace.  
+- Dataset: Regarding the glossing dataset, we consider the GlossLM/PolyGloss dataset as the main *labelled* dataset to use.  
+More details on the allowed datasets are below.
+- Participation tracks: We consider two sets of languages: 
+  - `existing_set` (from phase 1; SIGMORPHON languages + Ainu) and 
+  - `new_set` (from phase 2; new languages). 
+
+Participation can be in only one of the two sets, or in both. However, in any case, a submission should contain predictions for all languages of a set (5 languages for `existing_set` and X languages for `new_set`).  
+Since the test sets of the `existing_set` is available online, we kindly ask participants **not** to use them for training
+
+In case of doubt about a rule, please feel free to check with us.
 
 ## Dataset
 
 In phase 1, the datasets to consider will be the training and dev sets. Although the test sets for this set of languages are publicly available, they should **NOT** be used to train the system.  
 The goal of this set is to have a common ground between submitted systems and previous work.
 
-In phase 2, we will mainly release new **test** datasets due to licensing restrictions. There will be no training data.
+In phase 2, we will mainly release new **test** datasets due to licensing restrictions.  
 
 
 #### Training data restrictions
@@ -102,7 +124,7 @@ We will mainly evaluate the quality of the predicted gloss. However, we encourag
 We will use the following metrics to evaluate the predicted gloss quality: *Morpheme Error Rate* (MER), *Word-level Accuracy*, and *Morpheme-level Accuracy*.  
 The main metric for the ranking is **MER**, following [Ginn et al., (2026)](https://aclanthology.org/2026.acl-long.1657/), while both accuracy scores follow the previous literature for information purposes.
 
-
+We will average each language's evaluation metric scores per language set.
 
 ## Submission
 TBA
@@ -111,7 +133,15 @@ TBA
 
 ## Citations
 ### Evaluation datasets
+#### SIGMORPHON 2023 Shared Task
+To acknowledge the SIGMORPHON 2023 Shared Task, please cite the following article:
+- Michael Ginn, Sarah Moeller, Alexis Palmer, Anna Stacey, Garrett Nicolai, Mans Hulden, and Miikka Silfverberg. 2023. [Findings of the SIGMORPHON 2023 Shared Task on Interlinear Glossing](https://aclanthology.org/2023.sigmorphon-1.20/). In *Proceedings of the 20th SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology*, pages 186–201, Toronto, Canada. Association for Computational Linguistics.
 
+#### Hokkaido Ainu
+- The Glossed Audio Corpus of Ainu Folklore corpus.  
+Hiroshi Nakagawa; Anna Bugaeva; Miki Kobayashi and Yoshimi Yoshikawa (2016-2024) [A Glossed Audio Corpus of Ainu Folklore](https://ainu.ninjal.ac.jp/folklore/). NINJAL. 
+
+#### New datasets
 - TBA
 
 ### Potential training corpora
