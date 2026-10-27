@@ -98,7 +98,7 @@ More details on the allowed datasets are below.
   - `new_set` (from phase 2; new languages). 
 
 Participation can be in only one of the two sets, or in both. However, in any case, a submission should contain predictions for all languages of a set (5 languages for `existing_set` and X languages for `new_set`).  
-Since the test sets of the `existing_set` is available online, we kindly ask participants **not** to use them for training
+Since the test sets of the `existing_set` are available online, we kindly ask participants **not** to use them for training
 
 In case of doubt about a rule, please feel free to check with us.
 
