@@ -8,7 +8,7 @@ image: https://field-matters.github.io/logo.jpg
 
 ## Important links
 - [Announcements and general contact (Google group)](https://groups.google.com/g/fm-shared-task-glossing-2027)
-- GitHub repository (TBA)
+- [GitHub repository](https://github.com/field-matters/ST2027)
 - Registration (Google form) (TBA)
 - CodaBench competition (TBA)
 
@@ -68,6 +68,7 @@ Ultimately, such glossing systems aim to help field linguists with the annotatio
 
 This Shared Task follows the [SIGMORPHON 2023 Shared Task on Interlinear Glossing](https://github.com/sigmorphon/2023GlossingST).  
 In our Shared Task, the input is mainly the **unsegmented source sentence** (first row). Some instances will be accompanied by its translation in a high-resource language (usually, in English; fourth row).
+The goal is to predict the **glossed sentence** (third row).
 
 ## Timeline
 
@@ -89,6 +90,7 @@ The corresponding citations for the languages are detailed in a section below.
 Submissions to the shared task should follow the rules below:
 - Model: Any type of model is allowed, provided that the system is based on *open-source* or *open-weight* models (if LLM-based).   
 We encourage you to upload your system to GitHub or HuggingFace.  
+Closed-source models can be used for other purposes (e.g., summarising a grammar book, generating pseudo-training data)
 - Dataset: Regarding the glossing dataset, we consider the GlossLM/PolyGloss dataset as the main *labelled* dataset to use.  
 More details on the allowed datasets are below.
 - Participation tracks: We consider two sets of languages: 
