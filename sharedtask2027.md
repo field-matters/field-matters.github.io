@@ -82,6 +82,12 @@ The Shared Task will be in **three phases**:
 The task will cover the following languages:
 - [Phase 1] 4 from the previous SIGMORPHON 2023 Shared Task on Interlinear Glossing: Gitksan (git), Lezgi (lez), Natugu (ntu), and Nyangbo (nyb).
 - [Phase 1] 1 language from the [Glossed Audio Corpus of Ainu Folklore](https://ainu.ninjal.ac.jp/folklore/en/) via the [Fieldwork corpus](https://huggingface.co/datasets/wav2gloss/NINJAL-Ainu-Folklore) ([He et al., 2024](https://aclanthology.org/2024.acl-long.34/)): Hokkaido Ainu (ain).
+- [Phase 2] **5 new languages** with mostly test data (sorted alphabetically):
+  - Amis (`ami`, `amis1246`): Austronesian (Formosan) language spoken in Taiwan
+  - Even (`eve`, `ewen1234`): Tungusic language spoken in Siberia
+  - Japhug (`jya`, `japh1234`): Sino-Tibetan (Gyalrong) language spoken in Southwestern China
+  - Mukri Kurdish (`ckb`, `mukr1239`): Indo-European (Indo-Iranian) language spoken in the northwestern part of Iran; it belongs to the dialect group of Central Kurdish (`ckb`).
+  - Tsou (`tsu`, `tsou1248`): Austronesian language spoken in Taiwan.
 
 The corresponding citations for the languages are detailed in a section below.
 
@@ -97,7 +103,7 @@ More details on the allowed datasets are below.
   - `existing_set` (from phase 1; SIGMORPHON languages + Ainu) and 
   - `new_set` (from phase 2; new languages). 
 
-Participation can be in only one of the two sets, or in both. However, in any case, a submission should contain predictions for all languages of a set (5 languages for `existing_set` and X languages for `new_set`).  
+Participation can be in only one of the two sets, or in both. However, in any case, a submission should contain predictions for all languages of a set (5 languages for `existing_set` and 5 languages for `new_set`).  
 Since the test sets of the `existing_set` are available online, we kindly ask participants **not** to use them for training
 
 In case of doubt about a rule, please feel free to check with us.
@@ -108,6 +114,7 @@ In phase 1, the datasets to consider will be the training and dev sets. Although
 The goal of this set is to have a common ground between submitted systems and previous work.
 
 In phase 2, we will mainly release new **test** datasets due to licensing restrictions.  
+To help calibrate the models, we provide at least **two fully segmented and glossed sentences** in our [GitHub repository](https://github.com/field-matters/ST2027).
 
 
 #### Training data restrictions
