@@ -9,7 +9,7 @@ image: https://field-matters.github.io/logo.jpg
 ## Important links
 - [Announcements and general contact (Google group)](https://groups.google.com/g/fm-shared-task-glossing-2027)
 - [GitHub repository](https://github.com/field-matters/ST2027)
-- Registration (Google form) (TBA)
+- [Registration (Google form)](https://forms.gle/v8wYmSyyLHptSfov9)
 - CodaBench competition (TBA)
 
 ## Important dates
