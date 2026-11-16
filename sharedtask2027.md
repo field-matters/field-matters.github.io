@@ -12,16 +12,16 @@ image: https://field-matters.github.io/logo.jpg
 - [Registration (Google form)](https://forms.gle/v8wYmSyyLHptSfov9)
 - CodaBench competition (TBA)
 
-## Important dates
+## Important dates (DD/MM/YYYY)
 - Shared Task details finalised: 26/10/2026
 - Phase 1: Beginning of the development phase: 26/10/2026
 - Phase 2: Information about the new languages: 03/11/2026
-- Phase 3: Test set release (beginning of the test phase): mid/end of November
-- Output submission deadline: end of November/beginning of December
-- System description deadline: December 15, 2026
-- Notification of acceptance: January 11, 2027
-- Camera-ready deadline: January 22, 2027
-- Workshop dates: March 9-14, 2027
+- Phase 3: Test set release (beginning of the test phase): 16/11/2026
+- Output submission deadline: 08/12/2026
+- System description deadline: 15/12/2026
+- Notification of acceptance: 11/01/2027
+- Camera-ready deadline: 22/01/2027
+- Workshop dates: 09-14/03/2027
 
 **All deadlines are 23:59 UTC-12 ('Anywhere on Earth').**
 
@@ -67,7 +67,7 @@ The task is to predict interlinear glosses, which are morpheme-level linguistic 
 Ultimately, such glossing systems aim to help field linguists with the annotation task for languages under documentation, as it is mainly performed manually with little automation. 
 
 This Shared Task follows the [SIGMORPHON 2023 Shared Task on Interlinear Glossing](https://github.com/sigmorphon/2023GlossingST).  
-In our Shared Task, the input is mainly the **unsegmented source sentence** (first row). Some instances will be accompanied by its translation in a high-resource language (usually, in English; fourth row).
+In our Shared Task, the input is mainly the **unsegmented source sentence** (first row). Some instances will be accompanied by their translation in a high-resource language (usually, in English; fourth row).
 The goal is to predict the **glossed sentence** (third row).
 
 ## Timeline
@@ -104,7 +104,7 @@ More details on the allowed datasets are below.
   - `new_set` (from phase 2; new languages). 
 
 Participation can be in only one of the two sets, or in both. However, in any case, a submission should contain predictions for all languages of a set (5 languages for `existing_set` and 5 languages for `new_set`).  
-Since the test sets of the `existing_set` are available online, we kindly ask participants **not** to use them for training
+Since the test sets of the `existing_set` are available online, we kindly ask participants **not** to use them for training.
 
 In case of doubt about a rule, please feel free to check with us.
 
@@ -131,12 +131,37 @@ Regarding **non-glossed** data (e.g., unlabelled data, sentences with another ty
 We will mainly evaluate the quality of the predicted gloss. However, we encourage submissions to be able to handle *morphological segmentation* (second tier of Figure 1), since field linguists usually analyse sentences into morphemes before producing glosses.
 
 We will use the following metrics to evaluate the predicted gloss quality: *Morpheme Error Rate* (MER), *Word-level Accuracy*, and *Morpheme-level Accuracy*.  
-The main metric for the ranking is **MER**, following [Ginn et al., (2026)](https://aclanthology.org/2026.acl-long.1657/), while both accuracy scores follow the previous literature for information purposes.
+The main metric for ranking is **MER**, following [Ginn et al. (2026)](https://aclanthology.org/2026.acl-long.1657/), while both accuracy scores follow the previous literature for information purposes.
 
 We will average each language's evaluation metric scores per language set.
 
-## Submission
-TBA
+## Output submission
+Submission format and method TBA very soon.
+
+Several submissions can be made, but only **one main submission** (to be decided by the participants before the result announcement) will be considered. The main submission is to be specified **per track**; it can a different system *per track* (but *not inside a track*).
+
+The deadline for the submission is: **08/12/2026** (AoE).
+
+## System description
+Participation in the Shared Task is valid **only** when a system description article is written about the output submission. We acknowledge that the timeline for the Shared Task is quite tight: we therefore recommend that each participant start writing it as soon as possible.  
+Please let us know if you require any deadline extension or any support regarding the writing (e.g., mentorship).  
+
+System descriptions mostly follow the general policy as for our workshop submissions (i.e., the standard \*ACL submissions). Articles should use the same \*ACL template. However, there are two differences:
+- Page length: system description articles should have a maximum of 6 pages (excluding Limitations, Ethical considerations, References, and Appendices) for the submission (there will be an extra page for the camera-ready version)
+- Anonymity: the submissions should not be anonymised. It should be clear to the reviewer which submission is described (e.g., a title with the team name).
+
+The system description should be clear about the following points:
+- the participation track(s)
+- the dataset(s) that were used for training and development (including example selection, if there is retrieval)
+- the licence of any *external* datasets
+- the model(s) which were used
+- the overall methodology of the system
+- the systems leading to the submitted outputs for the shared task, with an emphasis on **one main submission**.
+
+System descriptions for the Shared Task should also be submitted on the main OpenReview submission platform (cf. workshop guidelines). Accepted system descriptions will also be in the workshop proceedings.  
+The deadline for the system description article is: **15/12/2026** (AoE).
+
+The citation for our Findings article regarding the Shared Task will be given soon.
 
 
 
