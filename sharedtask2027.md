@@ -21,7 +21,7 @@ image: https://field-matters.github.io/logo.jpg
 - System description deadline: 15/12/2026
 - Notification of acceptance: 11/01/2027
 - Camera-ready deadline: 22/01/2027
-- Workshop dates: 09-14/03/2027
+- Workshop dates: 14/03/2027
 
 **All deadlines are 23:59 UTC-12 ('Anywhere on Earth').**
 
@@ -147,7 +147,7 @@ Participation in the Shared Task is valid **only** when a system description art
 Please let us know if you require any deadline extension or any support regarding the writing (e.g., mentorship).  
 
 System descriptions mostly follow the general policy as for our workshop submissions (i.e., the standard \*ACL submissions). Articles should use the same \*ACL template. However, there are two differences:
-- Page length: system description articles should have a maximum of 6 pages (excluding Limitations, Ethical considerations, References, and Appendices) for the submission (there will be an extra page for the camera-ready version)
+- Page length: system description articles should have a maximum of **6 pages** (excluding Limitations, Ethical considerations, References, and Appendices) for the submission (there will be an extra page for the camera-ready version)
 - Anonymity: the submissions should not be anonymised. It should be clear to the reviewer which submission is described (e.g., a title with the team name).
 
 The system description should be clear about the following points:
